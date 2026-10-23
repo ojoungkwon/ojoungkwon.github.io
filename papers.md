@@ -205,6 +205,10 @@ classes: publication-page
 
 ## Submitted
 
+4\. An Erdős-Pósa theorem for induced packings of even cycles  
+ (with [Jungho Ahn](https://www.junghoahn.com), [Lars Jaffke](https://lars-jaffke.github.io), [Paloma T. de Lima](http://itu.dk/~palt/), and Hyemi Park)  
+ [arXiv:2610.22967](https://arxiv.org/abs/2610.22967)
+
 3\. Erdős-Pósa property for induced packings of long S-cycles (with [Jungho Ahn](https://www.junghoahn.com))  
  [arXiv:2608.22349](http://arxiv.org/abs/2608.22349) submitted
 

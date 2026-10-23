@@ -35,4 +35,4 @@ Graph coloring, χ-boundedness, holes, and intersection graph classes.
 
 Parameterized complexity and polynomial kernelization for graph modification problems.
 
-These topics are organized from the research interests listed on the [Intro page](index.html).
+These topics are organized from the research interests listed on the [Introduction page](index.html).

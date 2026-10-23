@@ -2,7 +2,7 @@
 academic:
   - title: "Academic homepage"
     children:
-      - title: "Intro"
+      - title: "Introduction"
         url: /
       - title: "Research team"
         url: /research-team.html
