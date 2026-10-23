@@ -15,6 +15,4 @@ academic:
       - title: "Teaching"
         url: /teaching.html
 
-main:
-  - title: "Papers"
-    url: /papers.html
+main: []
