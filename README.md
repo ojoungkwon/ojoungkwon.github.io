@@ -13,8 +13,6 @@ have been retained. Existing `.html` page addresses still work.
 - `papers.md`: publications, preprints, theses, and manuscripts
 - `presentations.md`: topics, talk timeline, and general talks
 - `teaching.md`: semester-by-semester course list
-- `seminar.md`: automatically generated seminar archive
-- `_seminars/`: one Markdown file for each seminar event
 - `links.md`: retained for old direct links; intentionally absent from navigation
 
 Edit `_config.yml` to change the author profile, website URL, or theme settings.
@@ -22,47 +20,16 @@ Edit `_data/navigation.yml` to change the shared menus.
 Small visual adjustments belong in `assets/css/main.scss`.
 Photos are stored in `assets/images/`.
 
-## Adding a seminar
+## Archived seminars
 
-Create a file such as `_seminars/2026-11-01-example.md`:
+Seminars have moved to https://sites.google.com/view/hy-combinatorics-seminar.
+The local seminar pages and navigation entries have been removed.
 
-```markdown
----
-title: "[Seminar] Speaker (Affiliation)"
-date: "2026-11-01"
-event_id: seminar-28
-speaker: "Speaker (Affiliation)"
-talk_title: "Talk title"
-date_display: "11 AM on 2026/11/1 (Sun)"
-location: "Room, Hanyang University"
----
+- `archive/seminars-google-sites.txt`: all 21 earlier announcements as plain text,
+  including abstracts, schedules, and related link URLs
+- `archive/seminars/`: original Markdown event files retained as a local backup
 
-<h3>Abstract</h3>
-
-Write the abstract here.
-```
-
-The event is automatically added to `seminar.html` in reverse date order.
-It also receives its own page at `/seminars/2026-11-01-example/`.
-Use a unique `event_id` to preserve archive anchors. For events on the same day,
-filenames determine the secondary order. An end date or multi-day schedule can
-be written in the body; `date` is the first day used for sorting.
-
-## Copying seminars to Google Sites
-
-The seminar archive follows the announcement format used at
-https://sites.google.com/view/hy-combinatorics-seminar:
-`[Seminar] Speaker (Affiliation)`, followed by Title, Date, Location, and Abstract.
-Each announcement has a **Copy this talk** button that copies formatted HTML
-and plain text. **Copy all talks** copies the complete archive. Paste into a
-Google Sites text box to retain headings, bold labels, and links; use plain-text
-paste if preferred. Google Sites may apply its own font and spacing.
-
-`assets/exports/seminars-google-sites.txt` is a plain-text snapshot of the 21
-events prepared for this migration. It includes abstracts, multi-day schedules,
-and link URLs; regenerate or update this snapshot if event information changes.
-Missing venues are explicitly marked rather than inferred. The local seminar
-archive remains available while the content is being moved.
+The entire `archive/` directory is excluded from Jekyll publishing.
 
 ## Local preview
 
@@ -89,7 +56,6 @@ If the repository is renamed or moved, update its Git remote separately.
 ## Content provenance
 
 Research team, papers, presentations, teaching, and seminar content was copied
-from the corresponding pages on `http://ojkwon.com/` on 2026-10-16. The seminar
-archive contains all 21 events then listed, including their full abstracts,
-schedules, and related links. Other profile and research text was carried over
+from the corresponding pages on `http://ojkwon.com/` on 2026-10-16. The local seminar backup contains all 21 events then listed, including their
+full abstracts, schedules, and related links. Other profile and research text was carried over
 from the previous homepage.

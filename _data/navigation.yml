@@ -14,11 +14,7 @@ academic:
         url: /presentations.html
       - title: "Teaching"
         url: /teaching.html
-      - title: "Combinatorics Seminar at HY"
-        url: /seminar.html
 
 main:
   - title: "Papers"
     url: /papers.html
-  - title: "Seminars"
-    url: /seminar.html

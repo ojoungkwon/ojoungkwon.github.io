@@ -24,11 +24,6 @@ author:
       icon: "fas fa-fw fa-file-pdf"
       url: "https://drive.google.com/file/d/134eAc_9BDZYzafef-pvAW1CnIQ7KwS_g/view?usp=sharing"
 
-collections:
-  seminars:
-    output: true
-    permalink: /seminars/:name/
-
 defaults:
   - scope:
       path: ""
@@ -40,11 +35,6 @@ defaults:
       related: false
       sidebar:
         nav: academic
-  - scope:
-      path: ""
-      type: seminars
-    values:
-      layout: seminar
 
 plugins:
   - jekyll-remote-theme
@@ -67,6 +57,7 @@ atom_feed:
   hide: true
 
 exclude:
+  - archive
   - README.md
   - Gemfile
   - Gemfile.lock
