@@ -35,7 +35,7 @@ Tree-width · Rank-width · Mim-width · Vertex-minors · Minors · Erdős–Pó
 
  - Program committees: SODA 2025, WG 2024, STACS 2023, WG 2021, ISAAC 2020, and IPEC 2019.
 - Editor: Communications of the Korean Mathematical Society; The Korean Journal of Mathematics; Journal of the Korean Society of Mathematical Education Series B.
-- Organizer and co-organizer of workshops and seminars in structural graph theory and discrete mathematics.
+- Organizer and co-organizer of workshops and seminars in structural graph theory and discrete mathematics: [School on Structural Graph Theory in Hanyang University](https://sites.google.com/view/sgth2022/), [2019 Combinatorics Workshop](https://cw2019.combinatorics.kr) (organized at Incheon, 13-15, Aug, 2019)
 
 [Presentations and academic activities →](presentations.html)
 
@@ -44,10 +44,11 @@ Tree-width · Rank-width · Mim-width · Vertex-minors · Minors · Erdős–Pó
  - **Assistant Professor**, Department of Mathematics, Hanyang University (Mar. 2022–Feb. 2024)
 - **Assistant Professor**, Department of Mathematics, Incheon National University (Mar. 2018–Feb. 2022)
 - **Postdoctoral Researcher**, Technische Universität Berlin (Jul. 2016–Feb. 2018)
-- **Researcher**, Institute for Computer Science and Control (MTA SZTAKI), Budapest (Jul. 2015–Jun. 2016)
+- **Postdoctoral Researcher**, Institute for Computer Science and Control (MTA SZTAKI), Budapest (Jul. 2015–Jun. 2016)
 
 ## Education
 
- - Ph.D. in Mathematical Sciences, KAIST (2012–2015)
+ - Ph.D. in Mathematical Sciences, KAIST (2012–2015)  
+   Ph.D advisor: [Sang-il Oum](https://sangil.dimag.kr/)
 - M.S. in Mathematical Sciences, KAIST (2010–2012)
 - B.S. in Mathematics, Hanyang University (2003–2010)
