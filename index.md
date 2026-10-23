@@ -5,6 +5,8 @@ permalink: /
 
 I am a mathematician working in graph theory and combinatorics.
 
+I and Prof. Donggyu Kim are co-organizing the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
+
 ## Current Position and Address
 
 **Associate Professor**, [Department of Mathematics, Hanyang University](https://math.hanyang.ac.kr/) (한양대학교)
