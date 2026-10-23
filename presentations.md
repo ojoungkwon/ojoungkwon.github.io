@@ -1,0 +1,176 @@
+---
+title: Presentations
+permalink: /presentations.html
+---
+
+## Topics
+
+ - **On problems related to digraph width parameters [[Slide](https://drive.google.com/file/d/1yB02vAl7nle5XzAxvayMXYYB1zUyIErO/view?usp=sharing)]**
+- **Erdős-Pósa property of A-paths in unoriented group-labelled graphs [[Movie](https://www.youtube.com/live/cxgCiZhZlGg?si=MEpR_CGlakqS9QyU)]**
+- **A coarse Erdős-Pósa theorem [[Slide](https://drive.google.com/file/d/1dr21Ksp41SLCxtvYb_1AXVtfhZS9cawr/view?usp=sharing), [Movie](https://www.youtube.com/live/O388YUCXQFU?si=j425tIJVzvVNDwcb)]**
+- **Classes of intersection digraphs with good algorithmic properties [[Slide](https://drive.google.com/file/d/170eG0GBr7AfJMwWJJe2eB1pQLXLBnUf1/view?usp=sharing)]**
+- **The grid theorem for vertex-minors [[Slide](https://drive.google.com/file/d/1NbW4lKydNKKLrtpKjHY9kcK5t6jYxbKr/view?usp=sharing)]**
+- **Reduced bandwidth: a qualitative strengthening of twin-width in minor-closed classes (and beyond) [[Slide](https://drive.google.com/file/d/18yO2lQrXG4EqJv7A2cq-mp_qERcqTcrS/view?usp=sharing)]**
+- **A unified Erdős-Pósa theorem for cycles in graphs labelled by multiple abelian groups [[Slide](https://drive.google.com/file/d/1KjILOxMTInwu2zaEYXmgAkKc_Py45wSK/view?usp=sharing)]**
+- **A unified half-integral Erdős-Pósa theorem for cycles labelled by multiple abelian groups [[Slide](https://drive.google.com/file/d/11pPmkOGJ8s934qspZ8DLrdOgLUv16NUd/view?usp=sharing)]**
+- **Mim-width: a width parameter beyond rank-width [[Slide](https://drive.google.com/file/d/1hSCm184Ych_LrabW4PCNIiQUSwuMp6Uz/view?usp=sharing), [Movie](https://www.youtube.com/watch?v=MNOU1bETa9A)]**
+- **Branch-depth: generalizing tree-depth of graphs [[Slide](https://drive.google.com/file/d/1WD8uhwT3wx5QPLCed8sNAP398pERI4yP/view?usp=sharing)]**
+- **Erdős-Pósa property of H-induced subdivisions [[Slide](https://drive.google.com/file/d/19UaOWLTjkdFCJ4kB3nyv3tJIGCDhxeW8/view?usp=sharing)]**
+
+## Timeline
+
+ - ASIACOMB (Aug 24-28, 2026)
+	- **Induced-packing variants of Erdős-Pósa theorem** **[[Slide](https://drive.google.com/file/d/18xotnWnSXfIl1uVY1uin_PiQg-Y3A_mS/view?usp=drive_link)]**
+- 5th East Asia Workshop on Extremal and Structural Graph Theory (Nov 27-30, 2025)
+- Math Colloquium at Incheon National University (Nov 6, 2025)
+- 2025 KMS Fall Annual Meeting (Oct 22-24, 2025)
+- [2025 Combinatorics Workshop](https://cw2025.combinatorics.kr), IBS Science Culture Center, Korea (Aug 18-20, 2025)
+	- **On problems related to digraph width parameters [[Slide](https://drive.google.com/file/d/1yB02vAl7nle5XzAxvayMXYYB1zUyIErO/view?usp=sharing)]**
+- [Discrete Math Seminar at IBS](https://dimag.ibs.re.kr/event/2025-02-18/) (Feb 18, 2025)
+	- **Erdős-Pósa property of A-paths in unoriented group-labelled graphs [[Movie](https://www.youtube.com/live/cxgCiZhZlGg?si=MEpR_CGlakqS9QyU)]**
+- [One Day Seminar on Graph Theory](https://sites.google.com/ajou.ac.kr/1daygraph) at Ajou University (Jan 15, 2025)
+- [Oberwolfach workshop](https://www.mfo.de/occasion/2502/www_view) on graph theory (Jan 5-10, 2025)
+- [Discrete Analysis Seminar](https://sites.google.com/yonsei.ac.kr/discrete-analysis-seminar) at Yonsei University (Sep 10, 2024)
+- [2024 Workshop on (Mostly) matroids](https://indico.ibs.re.kr/event/652/), Daejeon, Korea (August 19-23, 2024)
+	- **A coarse Erdős-Pósa theorem [[Slide](https://drive.google.com/file/d/1dr21Ksp41SLCxtvYb_1AXVtfhZS9cawr/view?usp=sharing), [Movie](https://www.youtube.com/live/O388YUCXQFU?si=j425tIJVzvVNDwcb)]**
+- [2024 SIAM Discrete Math Conference](https://www.siam.org/conferences/cm/conference/dm24), Spokane, Washington, USA, (July 8-11, 2024).
+	- **Reduced bandwidth: a qualitative strengthening of twin-width in minor-closed classes (and beyond) [[Slide](https://drive.google.com/file/d/18yO2lQrXG4EqJv7A2cq-mp_qERcqTcrS/view?usp=sharing)]**
+- Seminar at CS department of Yonsei University (June 11, 2024)
+	- **Classes of intersection digraphs with good algorithmic properties [[Slide](https://drive.google.com/file/d/170eG0GBr7AfJMwWJJe2eB1pQLXLBnUf1/view?usp=sharing)]**
+- 2023 vertex-minor workshop (Oct 16-20, 2023)
+	- **The grid theorem for vertex-minors [[Slide](https://drive.google.com/file/d/1NbW4lKydNKKLrtpKjHY9kcK5t6jYxbKr/view?usp=sharing)]**
+- The 2nd China-Korea Young Scholars’ Symposium on Discrete Mathematics (June 29-30, 2023)
+- 28th KIAS Combinatorics workshop 2023 (June 1-3, 2023)
+- Math Colloquium at Ewha Woman’s University (Oct 13, 2022)
+- School on Structural Graph Theory (Sep 16-17, 2022)
+- 25th KIAS Combinatorics workshop 2022 (June 15-18, 2022)
+- Math Colloquium at KAIST (June 2, 2022)
+- [KSIAM conference](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20220325&CpPage=#CONF) (May 27-28, 2022)
+- Math Colloquium at Yonsei University (May 12, 2022)
+- Math Colloquium at Hanyang University (April 11, 2022)
+	- **Introduction to graph minor theory**
+- [Graphs and matroids seminar](http://matroidunion.org/?page_id=2477) (Mar 23, 2022)
+- [Symposium on Theoretical Aspects of Computer Science, STACS 2022](https://stacs2022.sciencesconf.org) (Mar 18, 2022)
+- Discrete Math Seminar at IBS (Jan 25, 2022)
+- Seminar at Hanyang University (Jan 20, 2022)
+- ACM-SIAM Symposium on Discrete Algorithms, SODA22 (Jan 9-12, 2022)
+- Oberwolfach workshop on graph theory (Jan 2-6, 2022)
+	- **A unified Erdős-Pósa theorem for cycles in graphs labelled by multiple abelian groups [[Slide](https://drive.google.com/file/d/1KjILOxMTInwu2zaEYXmgAkKc_Py45wSK/view?usp=sharing)]**
+- [Banff international workshop on “Graph Product Structure Theory”](https://www.birs.ca/events/2021/5-day-workshops/21w5235) (Nov 22th, 2021)
+	- **Reduced bandwidth: a qualitative strengthening of twin-width in minor-closed classes (and beyond) [[Movie](https://www.birs.ca/events/2021/5-day-workshops/21w5235/videos/watch/202111221730-Kwon.html?fbclid=IwAR3YKKfhf7Wt1cvQ7yLEzCxAigtiRa530OLiKdMnTxVdV79E6agjvw8Nf94)]**
+- 2021 China-Korea Young Scholars’ Symposium on Discrete Mathematics, Statistics and Optimization (Nov 14th, 2021)
+- Dagstuhl Workshop on Sparsity in Algorithms, Combinatorics and Logic (Oct 3th, 2021)
+	- **Obstructions to bounded shrub-depth and rank-depth**
+- [Round the world relay in Combinatorics](http://people.maths.ox.ac.uk/scott/relay.htm) (8th, June, 2021) ([IBS Discrete Math Seminar](https://dimag.ibs.re.kr/event/2021-06-08/))
+	- **Classes of intersection digraphs with good algorithmic properties [[Movie](https://www.youtube.com/watch?v=etUG_UPGydY)]**
+- Seminar at Yonsei University (4th, June, 2021)
+- 2021 KMS Spring Annual Meeting (29th, Apr, 2021)
+	- **Measuring what matters: A hybrid approach to dynamic programming with treewidth**
+- [Graphs and matroids seminar](http://matroidunion.org/?page_id=2477) (1st, Mar, 2021)
+	- **A unified half-integral Erdős-Pósa theorem for cycles labelled by multiple abelian groups [[Slide](https://drive.google.com/file/d/11pPmkOGJ8s934qspZ8DLrdOgLUv16NUd/view?usp=sharing), [Movie](https://youtu.be/lu4zG8MxgQ8)]**
+- [Seminar at Institute for Basic Science](https://dimag.ibs.re.kr/event/2021-01-05/) (5th, Jan, 2021)
+	- **Directed tangles and applications [[Movie](https://youtu.be/hSvHIT5t0p0)]**
+- [15th International Symposium on Parameterized and Exact Computation (IPEC) 202](https://algo2020.comp.polyu.edu.hk/ipec.html)0 Online virtual conference organized by The Hong Kong Polytechnic University (15th, Dec, 2020)
+	- **Close relatives of Feedback Vertex Set without single-exponential algorithms parameterized by treewidth**
+- 2020 KMS Fall Annual Meeting (23th-24th, Oct, 2020)
+	- **Half-integral Erdős-Pósa property of directed odd cycles**
+- [Seminar at Institute for Basic Science](https://dimag.ibs.re.kr/event/2020-05-19/) (19th, May, 2020)
+	- **Mim-width: a width parameter beyond rank-width [[Slide](https://drive.google.com/file/d/1hSCm184Ych_LrabW4PCNIiQUSwuMp6Uz/view?usp=sharing), [Movie](https://www.youtube.com/watch?v=MNOU1bETa9A)]**
+- Seminar at Kyunghee University (29th, Nov, 2019)
+- The 2nd East Asia Workshop on Extremal and Structural graph theory (31th, Oct-4th, Nov, 2019)
+- 2019 KMS Fall Annual Meeting (26th, Oct-27th, Oct, 2019)
+- [IBS Summer research program on Algorithms and Complexity in Discrete Structures](https://dimag.ibs.re.kr/event/2019-ibs-summer-research-program/) (26, July, 2019)
+	- **The grid theorem for vertex-minors [[Slide](https://drive.google.com/file/d/1qklXGUYNcV77xGfgCfC3OsilvETrEDDo/view?usp=sharing), [Movie](https://youtu.be/xYhPjAIM7s0)]**
+- Seminar at University of Hamburg (9, July, 2019)
+	- **Branch-depth: generalizing tree-depth of graphs [[Slide](https://drive.google.com/file/d/1WD8uhwT3wx5QPLCed8sNAP398pERI4yP/view?usp=sharing)]**
+- [Dagstuhl workshop on graph colouring: from structure to algorithms](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19271) (1-5, July, 2019)
+	- **Classes with no long cycle as a vertex-minor are polynomially chi-bounded**
+- [Workshop on graph coloring and related topics](https://sites.google.com/view/wgc2019), Konkuk University, Seoul, Korea, 31 May, 2019.
+- [2019 spring annual meeting of the KMS](http://www.kms.or.kr/meetings/spring2019/), Kangwon University, Chuncheon, Korea, 20 Apr, 2019.
+- Colloquium at Ajou University, Suwon, South Korea, 19 Apr, 2019.
+- Oberwolfach workshop on graph theory (7-11, Jan, 2019)
+	- **Erdös-Pósa property of H-induced subdivisions [[Slide](https://drive.google.com/file/d/19UaOWLTjkdFCJ4kB3nyv3tJIGCDhxeW8/view?usp=sharing)]**
+- [KSIAM conference](https://www.ksiam.org/conference/3cbf86f3-4131-440b-a6f6-407c6c52edbf/welcome) (2-4, Nov, 2018)
+- [Ajou Combinatorics Workshop](https://sites.google.com/a/ajou.ac.kr/acw/), 26, Oct, 2018
+- [13th International Symposium on Parameterized and Exact Computation (IPEC) 2018](http://algo2018.hiit.fi/ipec/) at Aalto University in Helsinki, Finland, 22-24, Aug, 2018.
+- Invited talk at [2018 Combinatorics Workshop](http://cw2018.combinatorics.kr/program), SNU, Korea, 17-18, Aug, 2018.
+- [2018 SIAM Discrete Math Conference](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=64634), University of Colorado, Denver, USA, 4-8 June, 2018.
+- Seminar at SUNY Korea, Incheon, South Korea, 1 June, 2018.
+- 86th KPPY Combinatorics Workshop at Pusan National University, Pusan, South Korea, 4 May, 2018.
+- Seminar at Hanyang University, Seoul, South Korea, 1 May, 2018.
+- [2018 spring annual meeting of the KMS](http://www.kms.or.kr/meetings/spring2018/), Kyunghee University, Seoul, Korea, 21 Apr, 2018.
+- [Discrete Math Seminar](http://mathsci.kaist.ac.kr/~sangil/seminar/2018-01-12/) at KAIST, 12 Jan, 2018.
+	- **Erdös-Pósa property of chordless cycles and applications [[Movie](https://youtu.be/JWy1tHJeSWQ)]**
+- [Eurocomb 2017](http://www.dmg.tuwien.ac.at/eurocomb2017/index.php/beispiel-seite/) at TU Vienna, Vienna, Austria, 31th Aug, 2017.
+- [Algorithms and Data Structures Symposium 2017](http://people.scs.carleton.ca/~wads/AcceptedPapers/program.html) at Memorial Univ of Newfoundland, St. John’s, Canada. 31 July-2 Aug, 2017.
+- [Structure in Graphs and Matroids 2017](http://www.math.uwaterloo.ca/~jfgeelen/SiGMa2017/schedule.html) at Univ. of Waterloo, Waterloo, Canada, 19 July, 2017.
+- [ICALP satellite conference. Algorithms and Structure for Sparse Graphs](http://sparsity2017.mimuw.edu.pl/) at Univ. Warsaw, Warsaw, Poland, 16 July, 2017.
+- [Discrete Math Seminar](http://mathsci.kaist.ac.kr/~sangil/seminar/2017-06-09/) at KAIST, 9 Jun, 2017.
+- Seminar at TU Berlin, Berlin, Germany, 28 Apr, 2017.
+- [Graphes at Lyon](http://www.ens-lyon.fr/LIP/MC2/GraphesALyon/), Lyon, France, 7 Apr, 2017.
+	- **Low rank-width colorings**
+- [Acid Seminar at Durham University](http://community.dur.ac.uk/algorithms.complexity/seminars.html), Durham, UK, 27 Feb, 2017.
+- Seminar at University of Warsaw, Warsay, Polland, 12 Jan, 2017.
+- [14th KIAS Combinatorics Workshop Series](http://home.kias.re.kr/MKG/h/Combinatorics/?pageNo=2388) at Busan, 19 Dec, 2016.
+- [80th KPPY Combinatorics Workshop](http://webbuild.knu.ac.kr/~mhs/seminars/SO/index.html) at Yeungnam Univ, Daegu, 17 Dec, 2016.
+- [Discrete Math Seminar](http://mathsci.kaist.ac.kr/~sangil/seminar/2016-11-25/) at KAIST, 25 Nov, 2016.
+- [Colloquium talk on Methods for Discrete Structures](http://www3.math.tu-berlin.de/MDS/Vorlesungen-WS16-17/vl-10.24.html) in TU Berlin, Berlin, Germany, 24 Oct, 2016.
+- [SIWAG 2016](http://sites.google.com/site/siwag2016/home) , Italy, 26 Sep, 2016.
+	- **Coloring graphs without fan vertex-minors and cycle pivot-minors**
+- [MFCS 2016](http://mfcs.ki.agh.edu.pl/accepted.shtml) , Krakow, Polland, 22 Aug, 2016.
+- [WG 2016](http://www.ie.boun.edu.tr/~wg2016/#program), Istanbul, Turkey, 22-24 June, 2016.
+- Seminar at University of Bergen, Bergen, Norway, 27 May, 2016.
+- Seminar at MTA SZTAKI, Budapest, Hungary, 5 May, 2016.
+	- **A single-exponential fixed parameter algorithm for Distance-Hereditary Vertex Deletion**
+- [Seminar at TU Wien](http://www.vcla.at/2016/03/o-joung-kwon/) in Vienna, Austria, 14. Mar, 2016.
+- Seminar at Masaryk University in Brno, Czech, 16 Nov, 2015.
+- Seminar at MTA SZTAKI, Budapest, Hungary, 28 Oct, 2015.
+- [7th workshop on Graph Classes, Optimization, and Width Parameters](http://grow2015.sciencesconf.org/resource/page/id/2), Aussois, France, 12 Oct, 2015.
+	- **Erdős-Pósa property of planar-H-minor models with prescribed vertex sets**
+- [10th International Symposium on Parameterized and Exact Computation](http://algo2015.upatras.gr/ipec/accepted.html), Patras, Greece, 17 Sep, 2015.
+- [10th International Symposium on Parameterized and Exact Computation](http://algo2015.upatras.gr/ipec/accepted.html), Patras, Greece, 16 Sep, 2015.
+	- **An FPT algorithm and a polynomial kernel for linear rank-width one vertex deletion**
+- Seminar at MTA SZTAKI, Budapest, Hungary , 29 Jul, 2015.
+- Seminar at Korea University, Korea University, Seoul, Korea , 29 May, 2015.
+- [2015 spring annual meeting of the KMS](http://www.kms.or.kr/meetings/spring2015/), Busan National University, Busan, Korea , 25 Apr, 2015.
+- Seminar at KAIST, Daejeon, Korea , 15 Apr, 2015.
+- Seminar at Bonn University, Bonn, Germany , 18 Feb, 2015.
+- [LIRMM Seminar](http://www.lirmm.fr/algco/GT/index.php#29-01-15), Montpellier, France , 22 Jan, 2015.
+- [International Workshop on Graph Decomposition](http://scientific-events.weebly.com/1205.html), CIRM, Marseille, France , 22 Jan, 2015.
+- [KAIST Discrete Math Seminar](http://mathsci.kaist.ac.kr/~sangil/seminar/entry/20141202/) , KAIST, Daejeon, Korea, 2 December, 2014.
+- [66th KPPY Combinatorics Workshop](http://webbuild.knu.ac.kr/~mhs/seminars/S66/index.html/) , Yeungnam University, Daegu, Korea, 20 September, 2014.
+- [International Congress of Mathematicians](http://www.icm2014.org/), Seoul, Korea, 13-21 Augest, 2014.
+- [9th International colloquium on graph theory and combinatorics](http://oc.inpg.fr/conf/icgt2014/Main/HomePage), University Joseph Fourier, Grenoble, France, 30 June, 2014.
+- [40th International Workshop on Graph-Theoretic Concepts in Computer Science](http://www.univ-orleans.fr/lifo/evenements/WG2014/?rub=accepted), Le Domaine de Chales, near Orleans, France, 25-27 June, 2014.
+	- **Linear rank-width of distance-hereditary graphs**
+- [2014 SIAM Discrete Math Conference](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=19533), Hyatt Regency Minneapolis Minneapolis, Minnesota, USA, 18 June, 2014.
+- [The 4th KIAS Combinatorics Workshop](http://home.kias.re.kr/MKG/h/Combinatorics/?pageNo=642), KIAS, Seoul, Korea , 30 May, 2014.
+- [2014 spring annual meeting of the KMS](http://www.kms.or.kr/meetings/spring2014/), Wonju University, Gangneung, Korea , 25 Apr, 2014.
+- [6th Workshop on GRAph Searching, Theory and Applications](http://www-sop.inria.fr/coati/events/grasta2014/program.php), Institut d’Etudes Scientifiques of Cargese, Corsica, France , 31 Mar 2014
+- Seminar at Utrecht University in Utrecht, Utrecht University, Utrecht, Netherlands , 28 Feb 2014
+- [Dagstuhl seminar on Graph Modification Problems](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=14071), Wadern, Germany 14 Feb 2014,
+	- **Characterizing width two for variants of treewidth**
+- [12th Korea-Japan Workshop on Algebra and Combinatorics](http://mathsci.kaist.ac.kr/~andreash/kj2014/program.html), KAIST, Daejeon , 23 Jan, 2014.
+- Seminar at Hanyang University, Seoul , 29 Nov, 2013.
+- Seminar at National Institute of Mathematical Sciences, Daejeon , 28 Nov, 2013.
+- [KPPY Combinatorics Workshop](http://webbuild.knu.ac.kr/~mhs/seminars/S60/index.html) , Kyungbook University, Daegu , 9 Nov, 2013.
+- [2013 annual meeting of the KMS](http://www.kms.or.kr/kms/meetings/2013fall/Program.htm), University of Seoul, Seoul , 25 Oct, 2013.
+- [Discrete Seminar at KAIST](http://mathsci.kaist.ac.kr/~sangil/seminar/entry/20131004/), Daejeon , 4 Oct, 2013.
+	- **Unavoidable vertex-minors in large prime graphs**
+- Visiting at University of Hamburg in Hamburg, Germany , 5 June, 2013.
+- [Working Seminar on Formal Models, Discrete Structures, and Algorithms at Masaryk University](http://www.fi.muni.cz/fmdsa/2013-kwon) in Brno, Czech , 20 May, 2013
+- [The 30th Symposium on Theoretical Aspects of Computer Science](http://www.stacs2013.uni-kiel.de/?page_id=472) , Christian-Albrechts-Universitat zu Kiel, Kiel, Germany , 28 Feb, 2013.
+	- **Excluded vertex-minors for graphs of linear rank-width at most k**
+- [2012 annual meeting of the KMS](http://www.kms.or.kr/meetings/fall2012/files/program.html), Convention Center, Daejeon, 6 Oct, 2012.
+- Seminar for graduate students in KAIST, Daejeon, 1 May, 2012.
+- [2012 SIAM Discrete Math Conference](http://meetings.siam.org/sess/dsp_talk.cfm?p=51249), Dalhousie University, Halifax, Canada, 22 June, 2012.
+	- **Graphs of small rank-width are pivot-minors of graphs of small tree-width**
+- [5th workshop on Graph Classes, Optimization, and Width parameters](http://mathsci.kaist.ac.kr/workshop/grow2011/program/), KAIST, Daejeon, 30 Oct, 2011.
+	- **Pivot-minors and Vertex-minors of trees and paths**
+
+## General talk:
+
+ - 한양대학교 수학과 수학과의 날 (2023.9.12) – Graphs and applications
+- 한국수학교육학회 국제수학교육학술대회 기조강연 (2021.12.10) – 새로운 아이디어를 얻는 즐거움
+- 한양대학교 수학과 콜로퀴움 (2021.10.28) – 수학자로 살아가는 것
+- 숭실대학교 자연과학대학 런치세미나 (2021.9.17) – László Lovász 교수님의 업적

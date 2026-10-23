@@ -1,0 +1,71 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+title: "O-joung Kwon"
+name: "O-joung Kwon (권오정)"
+description: "Graph theory and combinatorics · Department of Mathematics, Hanyang University"
+url: "https://ojoungkwon.github.io"
+baseurl: ""
+timezone: "Asia/Seoul"
+
+author:
+  name: "O-joung Kwon (권오정)"
+  bio: "Associate Professor<br>Department of Mathematics<br>Hanyang University"
+  location: "Seoul, Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ojoungkwon@hanyang.ac.kr"
+    - label: "Department"
+      icon: "fas fa-fw fa-university"
+      url: "https://math.hanyang.ac.kr/"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://drive.google.com/file/d/134eAc_9BDZYzafef-pvAW1CnIQ7KwS_g/view?usp=sharing"
+
+collections:
+  seminars:
+    output: true
+    permalink: /seminars/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      related: false
+      sidebar:
+        nav: academic
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  smart_quotes: [apos, apos, quot, quot]
+  typographic_symbols:
+    mdash: "---"
+    ndash: "--"
+    hellip: "..."
+    laquo: "<<"
+    raquo: ">>"
+
+atom_feed:
+  hide: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - scripts
+  - styles.css

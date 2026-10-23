@@ -1,31 +1,81 @@
-# O-joung Kwon — GitHub Pages homepage
+# O-joung Kwon — Jekyll homepage
 
-This is a multi-page academic homepage modeled on the navigation and profile structure of `ojkwon.com`.
+The academic homepage at **https://ojoungkwon.github.io** uses Jekyll and the
+[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) remote theme,
+pinned to version 4.28.1. The original content, links, and presentation photos
+have been retained. Existing `.html` page addresses still work.
 
-## Pages
+## Editing content
 
-- `index.html` — Intro, current position, research interests, grants, activity, previous positions, and education
-- `research-team.html` — team member page
-- `research.html` — research topic overview
-- `papers.html` — publications page
-- `presentations.html` — talk topics, presentation timeline, and general talks
-- `teaching.html` — courses and materials
-- `links.html` — affiliations and editorial links
-- `seminar.html` — Combinatorics Seminar at Hanyang University
-- `styles.css` — shared design and responsive layout
+- `index.md`: profile, positions, interests, grants, and education
+- `research-team.md`: members, student papers, and presentation photos
+- `research.md`: research topics
+- `papers.md`: publications, preprints, theses, and manuscripts
+- `presentations.md`: topics, talk timeline, and general talks
+- `teaching.md`: semester-by-semester course list
+- `seminar.md`: automatically generated seminar archive
+- `_seminars/`: one Markdown file for each seminar event
+- `links.md`: retained for old direct links; intentionally absent from navigation
 
-## Publish
+Edit `_config.yml` to change the author profile, website URL, or theme settings.
+Edit `_data/navigation.yml` to change the shared menus.
+Small visual adjustments belong in `assets/css/main.scss`.
+Photos are stored in `assets/images/`.
 
-Upload the contents of this folder (the HTML files, `styles.css`, and `.nojekyll`) to the top level of the `ojoungkwon.github.io` repository. Keep all HTML pages beside `styles.css`; do not upload the `academic-site` folder as an extra nested folder. GitHub Pages should publish from the `main` branch and `/(root)`.
+## Adding a seminar
 
-The homepage and research topics use profile information visible on the existing homepage when this draft was prepared. Please review dates and wording before relying on them. The research team, papers, presentations, teaching, and seminar pages have been populated from the original site.
+Create a file such as `_seminars/2026-11-01-example.md`:
 
-The research team page includes the original member details, student papers, presentation photos, and undergraduate recruitment notice copied from `http://ojkwon.com/research-team/` on 2026-10-16. Photos are stored locally in `assets/images/`.
+```markdown
+---
+title: "2026/11/1 · Seminar · Speaker (Affiliation)"
+date: "2026-11-01"
+event_id: seminar-28
+---
 
-The papers page includes the complete publication list and original links copied from `http://ojkwon.com/papers/` on 2026-10-16.
+**Title:** Talk title
 
-The presentations page includes the original topics, presentation timeline, general talks, and slide/video links copied from `http://ojkwon.com/presentations/` on 2026-10-16.
+**Speaker:** Speaker (Affiliation)
 
-The teaching page includes the original semester-by-semester course list, topics, and textbook details copied from `http://ojkwon.com/teaching/` on 2026-10-16.
+**Date:** November 1, 2026, 11:00
 
-The seminar page includes all 21 events listed at `http://ojkwon.com/seminar/` on 2026-10-16, with full text extracted from each expandable event, including abstracts, schedules, and related links.
+**Place:** Room, Hanyang University
+
+**Abstract:** Write the abstract here.
+```
+
+The event is automatically added to `seminar.html` in reverse date order.
+It also receives its own page at `/seminars/2026-11-01-example/`.
+Use a unique `event_id` to preserve archive anchors. For events on the same day,
+filenames determine the secondary order. An end date or multi-day schedule can
+be written in the body; `date` is the first day used for sorting.
+
+## Local preview
+
+With a current Ruby installation and Bundler:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+Open http://localhost:4000. Use `bundle exec jekyll build` for a build check.
+Do not commit `_site/` or `vendor/`.
+
+## GitHub Pages
+
+Publish these source files in the repository serving `ojoungkwon.github.io`.
+For GitHub's built-in Jekyll publishing, select **Settings → Pages → Build and
+deployment → Deploy from a branch**, then select the publishing branch and
+`/(root)`. Do not add `.nojekyll`, because this site needs Jekyll to build.
+
+The domain settings are `url: "https://ojoungkwon.github.io"` and `baseurl: ""`.
+If the repository is renamed or moved, update its Git remote separately.
+
+## Content provenance
+
+Research team, papers, presentations, teaching, and seminar content was copied
+from the corresponding pages on `http://ojkwon.com/` on 2026-10-16. The seminar
+archive contains all 21 events then listed, including their full abstracts,
+schedules, and related links. Other profile and research text was carried over
+from the previous homepage.

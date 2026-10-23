@@ -1,0 +1,20 @@
+---
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// Keep the theme's responsive layout and improve long academic entries.
+.author__name { overflow-wrap: normal; word-break: keep-all; }
+.page__content { overflow-wrap: break-word; }
+.page__content a { overflow-wrap: anywhere; }
+.page__content > h2 { margin-top: 2em; }
+.page__content li { margin-bottom: 0.6em; }
+.page__content img { max-width: 100%; height: auto; }
+.team-page .page__content img { width: 285px; display: block; margin: 1.5em auto 0; }
+.publication-page .page__content p { margin-bottom: 1.4em; }
+.seminar-event { padding: 1.5em 0; border-top: 1px solid $border-color; }
+.seminar-event h2 { margin-top: 0; font-size: 1.2em; }
+.seminar-event p { margin-bottom: 0.8em; }
+.academic-footer { margin-bottom: 0.75em; }

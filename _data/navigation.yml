@@ -1,0 +1,24 @@
+# The sidebar is shared by every page. Links remains intentionally hidden.
+academic:
+  - title: "Academic homepage"
+    children:
+      - title: "Intro"
+        url: /
+      - title: "Research team"
+        url: /research-team.html
+      - title: "Research topics"
+        url: /research.html
+      - title: "Papers"
+        url: /papers.html
+      - title: "Presentations"
+        url: /presentations.html
+      - title: "Teaching"
+        url: /teaching.html
+      - title: "Combinatorics Seminar at HY"
+        url: /seminar.html
+
+main:
+  - title: "Papers"
+    url: /papers.html
+  - title: "Seminars"
+    url: /seminar.html
