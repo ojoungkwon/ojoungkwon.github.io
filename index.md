@@ -4,7 +4,7 @@ permalink: /
 ---
 
 I am a mathematician working in graph theory and combinatorics.  
-I and [Prof. Donggyu Kim](https://donggyu-math.github.io) are co-organizing the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
+[Prof. Donggyu Kim](https://donggyu-math.github.io) and I co-organize the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
 
 ## Current Position and Address
 
@@ -17,7 +17,7 @@ Joint appointment with the Department of Computer Science.
 Visiting Research Fellow, [Discrete Mathematics Group, Institute for Basic Science](https://dimag.ibs.re.kr/).
 
 Email: ojoungkwon (at) hanyang.ac.kr · ojoungkwon (at) gmail.com  
-CV: [Download PDF](https://drive.google.com/file/d/134eAc_9BDZYzafef-pvAW1CnIQ7KwS_g/view?usp=sharing) (the current site lists it as updated Aug. 2025)
+CV: [Download PDF](https://drive.google.com/file/d/1mi2zC6DHP780DkpUGoznn-NFYETX7hh9/view?usp=drive_link) (updated Oct. 2026)
 
 ## Research Interests
 
