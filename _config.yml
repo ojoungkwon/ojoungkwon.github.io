@@ -40,6 +40,11 @@ defaults:
       related: false
       sidebar:
         nav: academic
+  - scope:
+      path: ""
+      type: seminars
+    values:
+      layout: seminar
 
 plugins:
   - jekyll-remote-theme

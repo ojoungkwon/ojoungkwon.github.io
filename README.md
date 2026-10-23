@@ -28,20 +28,18 @@ Create a file such as `_seminars/2026-11-01-example.md`:
 
 ```markdown
 ---
-title: "2026/11/1 · Seminar · Speaker (Affiliation)"
+title: "[Seminar] Speaker (Affiliation)"
 date: "2026-11-01"
 event_id: seminar-28
+speaker: "Speaker (Affiliation)"
+talk_title: "Talk title"
+date_display: "11 AM on 2026/11/1 (Sun)"
+location: "Room, Hanyang University"
 ---
 
-**Title:** Talk title
+<h3>Abstract</h3>
 
-**Speaker:** Speaker (Affiliation)
-
-**Date:** November 1, 2026, 11:00
-
-**Place:** Room, Hanyang University
-
-**Abstract:** Write the abstract here.
+Write the abstract here.
 ```
 
 The event is automatically added to `seminar.html` in reverse date order.
@@ -49,6 +47,22 @@ It also receives its own page at `/seminars/2026-11-01-example/`.
 Use a unique `event_id` to preserve archive anchors. For events on the same day,
 filenames determine the secondary order. An end date or multi-day schedule can
 be written in the body; `date` is the first day used for sorting.
+
+## Copying seminars to Google Sites
+
+The seminar archive follows the announcement format used at
+https://sites.google.com/view/hy-combinatorics-seminar:
+`[Seminar] Speaker (Affiliation)`, followed by Title, Date, Location, and Abstract.
+Each announcement has a **Copy this talk** button that copies formatted HTML
+and plain text. **Copy all talks** copies the complete archive. Paste into a
+Google Sites text box to retain headings, bold labels, and links; use plain-text
+paste if preferred. Google Sites may apply its own font and spacing.
+
+`assets/exports/seminars-google-sites.txt` is a plain-text snapshot of the 21
+events prepared for this migration. It includes abstracts, multi-day schedules,
+and link URLs; regenerate or update this snapshot if event information changes.
+Missing venues are explicitly marked rather than inferred. The local seminar
+archive remains available while the content is being moved.
 
 ## Local preview
 

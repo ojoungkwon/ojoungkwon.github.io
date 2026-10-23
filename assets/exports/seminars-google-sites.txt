@@ -1,0 +1,415 @@
+[Seminar] Shinwoo An (Bar-Ilan University)
+
+Title: Low Diameter Decomposition for Structured Digraphs
+Date: 11 AM on 2026/8/7 (Fri)
+Location: Natural Science Building 701, Hanyang University
+
+Abstract
+
+Low diameter decompositions, or LDDs for short, are a fundamental primitive in the design of efficient graph algorithms. Roughly speaking, an LDD is a distribution over partitions of the vertices into bounded-diameter clusters such that nearby vertices are likely to be clustered together. Recently, there has been growing interest in lifting the notion of LDDs into \emph{directed graphs}. In particular, there are two natural directed analogues. The first is a directed LDD, where after removing a random subset of edges, every strongly connected component has a small diameter. The second is a quasipartition, which imposes the stronger requirement that whenever one vertex can still reach another after the edge removal, the two vertices must be close in the original directed metric. Every quasipartition yields an LDD, but the converse does not necessarily hold.
+
+In this work, we initiate the systematic study of LDDs in structured directed graphs. As our main result, we show that any directed graph with pathwidth $\pw$ admits an $(O(\pw), \Delta)$-LDD. This improves upon the previous best-known $(2^{O(\pw^2)}, \Delta)$-LDD construction, which was implicitly derived from the quasipartition result of Salmasi, Sidiropoulos, and Sridhar [SODA'19].
+
+
+[Seminar] Seonghyuk Im (KIAS)
+
+Title: Hitting times for Hamilton cycles in random sparsifications
+Date: 11 AM on 2026/4/27 (Mon)
+Location: Natural Science Building 702, Hanyang University
+
+Abstract
+
+Consider the random subgraph process on a base graph $G$ with $n$ vertices, where we generate a sequence $\{G_t\}_{t=0}^{|E(G)|}$ by adding the edges of $G$ one by one in a uniformly random order to an empty graph. A foundational theorem of Bollobás, and independently Ajtai, Komlós, and Szemerédi, establishes that when the base graph is $K_n$, the hitting time for a Hamilton cycle coincides exactly with the hitting time for minimum degree $2$ with high probability.
+
+In this talk, we explore two distinct generalizations of this problem. First, in the setting of pseudo-random graphs, we show that there exists a constant $C > 0$ such that for any $(n,d,\lambda)$-graph $G$ satisfying $d/\lambda \ge C$, the hitting time for Hamiltonicity coincides with the hitting time for minimum degree $2$ with high probability. This resolves long-standing questions by Frieze--Krivelevich (2002) and Alon--Krivelevich (2019).
+
+Second, we extend this hitting time phenomenon to the hypergraph setting via Dirac-type conditions. We prove that if $G$ is an $r$-uniform hypergraph with minimum degree $\delta(G) \geq (1/2^{r-1}+\varepsilon)\binom{n-1}{r-1}$, the hitting time for a Berge Hamilton cycle matches the hitting time for minimum degree $2$ with high probability, successfully extending Johansson's result to hypergraphs.
+
+This talk is based on joint work with Minseo Kim, and joint work with Yaobin Chen, Yu Chen, and Yiting Wang.
+
+
+[Seminar] Sang-il Oum (IBS Discrete Math group)
+
+Title: Branch-width of connectivity functions is fixed-parameter tractable
+Date: 4 PM on 2026/1/19 (Mon)
+Location: Natural Science Building 701, Hanyang University
+
+Abstract
+
+A connectivity function on a finite set $V$ is a symmetric submodular
+
+function $f \colon 2^V \to \mathbb{Z}$ with $f(\emptyset)=0$.
+
+We prove that finding a branch-decomposition of width at most $k$ for
+
+a connectivity function given by an oracle is fixed-parameter
+
+tractable, by providing an algorithm of running time $O(\gamma
+
+2^{O(k^2)} n^6 \log n)$, where $\gamma$ is the time to compute $f(X)$
+
+for any set $X$, and $n = |V|$.
+
+This improves the previous algorithm by Oum and Seymour [J. Combin.
+
+Theory Ser.~B, 2007], which runs in time $O(\gamma n^{8k+O(1)})$.
+
+Our algorithm can be applied to rank-width of graphs, branch-width of
+
+matroids, branch-width of (hyper)graphs, and carving-width of graphs.
+
+This resolves an open problem asked by Hlin\v{e}n\'y [SIAM J. Comput.,
+
+2005], who asked whether branch-width of matroids given by an
+
+independence oracle is fixed-parameter tractable.
+
+Furthermore, it improves the best known dependency on $k$ in the
+
+running times of FPT algorithms for graph branch-width, rank-width,
+
+and carving-width.
+
+Joint work with Tuukka Korhonen.
+
+
+[Seminar] Donggyu Kim (Georgia Institute of Technology)
+
+Title: Representation theory for polymatroids
+Date: 4 PM on 2026/1/8 (Thu)
+Location: Natural Science Building 701, Hanyang University
+
+Abstract
+
+We develop a theory of representation of (discrete) polymatroids over tracts in terms of Pl\"{u}cker coordinates and suitable Pl\"{u}cker relations. As special cases, we recover polymatroids themselves as polymatroid representations over the Krasner hyperfield $\mathbb{K}$ and M-convex functions as polymatroid representations over the tropical hyperfield $\mathbb{T}_0$.
+
+The space of all representations of a polymatroid $J$, which we call the \emph{thin Schubert cell} of $J$, is represented by an algebraic object called the \emph{universal tract} of $J$. When we restrict to just the 3-term Pl\"{u}cker relations, we obtain the \emph{weak thin Schubert cell}, and passing to torus orbits yields the \emph{realization space}. These are represented by the \emph{universal pasture} and the \emph{foundation} of $J$, respectively. We exhibit a canonical bijection between the universal tract and the universal pasture and prove that the thin Schubert cell and the weak thin Schubert cell coincide if the given tract is ``perfect''. We also show that the foundation of a polymatroid is generated by ``cross ratios'' and describe a complete list of multiplicative relations between cross ratios.
+
+This is joint work with Matt Baker, June Huh, Mario Kummer, and Oliver Lorscheid.
+
+
+[Seminar] Yongho Shin (University of Wrocław)
+
+Title: Primal-dual algorithms for edge-colored clustering
+Date: 11 AM on 2026/1/5 (Mon)
+Location: Natural Science Building 702, Hanyang University
+
+Abstract
+
+Given an edge-colored hypergraph, the edge-colored clustering (ECC) problem asks to find a coloring of vertices that minimizes the number of mistakes, where a hyperedge is called a mistake when there exists a vertex of a different color in the hyperedge. The problem has also been studied under various settings while most of previous approaches are either greedy or linear programming (LP) rounding algorithms. However, these two algorithms have inherent drawbacks: a greedy algorithm usually suffers unsatisfactory performance guarantee whereas an LP rounding algorithm is usually computationally intensive.
+
+In this talk, we present primal-dual algorithms for ECC and its variants. A primal-dual algorithm is an algorithmic technique that manually constructs a dual-feasible solution to prove the performance guarantee using the LP duality. The technique takes advantages from both greedy and LP rounding algorithms---fast computation and performance guarantee due to LP duality---and hence, it has served as a standard technique in the field of approximation algorithms. We begin with a 2-approximation algorithm for vanilla ECC, and then briefly demonstrate the first bounded-factor-approximation algorithm for a robust version of ECC.
+
+Based on joint work with Changyeol Lee (Yonsei) and Hyung-Chan An (Yonsei). Appeared at NeurIPS 2025.
+
+
+[Seminar] Mujin Choi (KAIST, IBS Discrete Math group)
+
+Title: Excluding ladder as an induced minor in graphs without induced stars
+Date: 11 AM on 2025/12/12 (Fri)
+Location: Natural Science Building 701, Hanyang University
+
+Abstract
+
+Tree-independence number is a variant of treewidth that measures independence number of each bag instead of its size.
+
+In 2024, Dallard et al. conjectured an induced analogue of the Grid Theorem for tree-independence number.
+
+In this talk, we prove that for all positive integers $k$ and $d$, a $K_{1,d}$-free graph with sufficiently large tree-independence number
+
+contains the k-ladder as an induced minor. This can be considered as the first step toward the induced version of Grid Theorem.
+
+Our proof uses a generalization of the concept of brambles to tree-independence number.
+
+This talk is based on joint work with Sebastian Wiederrecht.
+
+
+[Seminar] Seokbeom Kim (KAIST, IBS Discrete Math group)
+
+Title: Coloring tournaments with a forbidden subtournament
+Date: 11 AM on 2025/6/10 (Tue)
+Location: Natural Science Building 751, Hanyang University
+
+Abstract
+
+A k-coloring of a tournament is a partition of its vertex set into k transitive subsets. Although there have been extensive studies figuring out the computational complexity of 3-coloring with a forbidden induced subgraphs in the (undirected) graph setting, an analog question for tournaments has received relatively little attention.
+
+In this talk, we introduce a recent progress on the tournament coloring problem. Unlike for graphs, deciding if a tournament admits a 2-coloring is an NP-hard problem, so when does the problem become tractable if we exclude a fixed tournament S as a subtournament? We present necessary conditions for tournaments that yield a positive answer to this question, along with a list of such tournaments that we have found.
+
+This talk is based on a joint work with Sepehr Hajebi, Yanjia Li, and Sophie Spirkl.
+
+
+[Seminar] Colin Geniet (IBS)
+
+Title: Twin-width from the perspective of permutations
+Date: 2 PM on 2025/1/16 (Thu)
+Location: Natural Science Building 702, Hanyang University
+
+Abstract
+
+This talk introduces the graph parameter twin-width from the lesser known point of view of permutations.
+
+I will first present basic notions of combinatorics on permutations, and a fundamental result: the Marcus-Tardos theorem
+
+which bounds the density of matrices avoiding a given pattern. Using this theorem, we will see how Guillemot and Marx
+
+invented the definition and main techniques for what is now known as twin-width, to design an algorithm which efficiently
+
+finds patterns in permutations.
+
+I will conclude by presenting a recent decomposition result: permutation with bounded twin-width are build from a bounded product of permutations of twin-width 0.
+
+This is joint work with Édouard Bonnet, Romain Bourneuf, and Stéphan Thomassé.
+
+
+[Seminar] Jungho Ahn (안정호 박사, KIAS)
+
+Title: A coarse Erdös-Pósa theorem for long cycles.
+Date: 4 PM on 2024/11/27 (Wed)
+Location: Natural Science Building 744, Hanyang University
+
+Abstract
+
+An induced packing of cycles in a graph is a set of vertex-disjoint cycles with no edges between them. The classic Erdős-Pósa theorem shows that for any graph $G$, one can either find $k$ vertex-disjoint cycles or a set of $O(k*log k)$ vertices which hits every cycles of $G$. Recently, we generalise this classic Erdős-Pósa theorem to induced packings of cycles. We show that there exists a function $f(k)=O(k*log k)$ such that for every positive integer $k$, every graph $G$ contains either an induced packing of $k$ cycles or a set $X$ of at most $f(k)$ vertices such that the closed neighbourhood of $X$ intersects all cycles in $G$.
+
+In this talk, we introduce a further progress on this topic. We show that the coarse Erdös-Pósa theorem also holds for long cycles. More specifically, we show that there exists a function $f(k,\ell)=O(k*\ell*\log k)$ such that for all positive integers $k$ and $\ell$, every graph $G$ contains either an induced packing of $k$ cycles of length at least $\ell$ or a set $X$ of at most $f(k,\ell)$ vertices such that the closed neighbourhood of $X$ intersects all cycles of length at least $\ell$ in $G$. Our proof is constructive and yields a polynomial-time algorithm finding either the induced packing of long cycles or the set $X$.
+
+This is a joint work with Pascal Gollin, Tony Huynh, and O-joung Kwon.
+
+
+[Seminar] Hyemin Kwon (권혜민 박사, KIAS)
+
+Title: Odd coloring and strong odd coloring on planar graphs
+Date: 3 PM on 2024/11/27 (Wed)
+Location: Natural Science Building 744, Hanyang University
+
+Abstract
+
+Recently, odd coloring and strong odd coloring has been introduced, which is a relaxation of square coloring. An odd coloring of a graph $G$ is a proper coloring of $G$ such that for each non-isolated vertex $v$, there is a color appearing an odd number of times in $N_G(v)$. A strong odd coloring of a graph $G$ is a proper coloring of $G$ such that for each vertex $v$, each color appearing in $N_G(v)$ appears an odd number of times. In this talk, we introduce results of odd coloring and strong odd coloring on planar graphs.
+
+
+[Seminar] Sang-il Oum (IBS Discrete Mathematics group)
+
+Title: Bounding the chromatic number of t-perfect graphs
+Date: 4:30 PM on 2024/9/25 (Wed)
+Location: Natural Science Building 202, Hanyang University
+
+Abstract
+
+Perfect graphs can be described as the graphs whose stable set polytope is defined by their non-negativity and clique inequalities (including edge inequalities).
+
+In 1975, Chvátal defined an analogous class called t-perfect graphs, which are the graphs whose stable set polytope is defined by their non-negativity, edge and odd circuit inequalities.
+
+We show that t-perfect graphs are 150000-colourable. This is the first finite bound on the chromatic number of t-perfect graphs, and answers a question of Shepherd from 1995.
+
+This is joint work with Maria Chudnovsky, Linda Cook, James Davies, and Jane Tan.
+
+
+[Seminar] Dong Yeap Kang (IBS Ecopro)
+
+Title: Random graphs/hypergraphs and thresholds
+Date: 2:30 PM on 2024/5/27 (Mon)
+Location: Not specified in the original announcement
+
+Abstract
+
+Random graphs is one of the most studied objects in probabilistic combinatorics. The study of random graphs was initiated by Erdos and Renyi in 1960s, where they observed a fundamental phenomenon called thresholds or phase transitions in random graphs. In this lecture, we will study the thresholds for some basic properties in random graphs/hypergraphs as well as the recent development by Frankston, Kahn, Narayanan, and Park on the Kahn--Kalai conjecture.
+
+
+[Seminar] Tony Huynh (Sapienza Università di Roma)
+
+Title: Aharoni's rainbow cycle conjecture holds up to an additive constant
+Date: 4–5 PM on 2024/5/9 (Thu)
+Location: Room B115
+
+Abstract
+
+In 2017, Aharoni proposed the following generalization of the Caccetta-Häggkvist conjecture for digraphs.
+
+If G is a simple n-vertex edge-colored graph with n color classes of size at least r, then G contains a rainbow cycle of length at most ⌈n/r⌉.
+
+In this talk, we prove that Aharoni's conjecture holds up to an additive constant. Specifically, we show that for each fixed r,
+
+there exists a constant c such that if G is a simple n-vertex edge-colored graph with n color classes of size at least r,
+
+then G contains a rainbow cycle of length at most n/r+c.
+
+This is joint work with Patrick Hompe.
+
+
+[Seminar] Jungho Ahn (KIAS)
+
+Title: Twin-width of subdivisions
+Date: 4–5 PM on 2024/4/12 (Fri)
+Location: Natural Science Building 702 (자연과학관 702호)
+
+Abstract
+
+Twin-width is a graph parameter which captures a way of recursively identifying vertices with similar neighborhoods. It encompasses many well-known width parameters; for instance, bounded tree-width or rank-width graphs have bounded twin-width. Contrary to tree-width, twin-width is sensitive to taking subdivisions. For $d<\sqrt{n-1}$, Bonnet, Geniet, Kim, Thomass\'{e}, and Watrigant showed that the $1$-subdivision of a complete graph $K_n$ has twin-width at least~$d$, while $K_n$ itself has twin-width~$0$. On the other hands, Berg\'{e}, Bonnet, and D\'{e}pr\'{e}s showed that for any $n$-vertex graph~$G$, if we subdivide each edge at least $2\log n-1$ times, then the subdivided graph twin-width at most~$4$.
+
+In this talk, we present the full list of forbidden minors of the graphs where if we subdivide each of their edges at least~$2$ times, then the subdivided graph has twin-width at most~$d$ for each $d\leq3$. As applications, we compute the twin-width large grid, large wall, and the line graph of large wall, and bound the tree-width of some sparse graphs of twin-width at most 3.
+
+This is a joint work with Debsoumya Chakraborti, Kevin Hendrey, and Sang-il Oum.
+
+
+[Seminar] Reading seminar
+
+Title: Reading seminar
+Date: 2024/1/29–31 (Mon–Wed)
+Location: 한양대학교 자연과학관 742호 (Natural Science 742)
+
+We will have a reading seminar for the following three papers that appeared in the last year.
+
+1:30 - 2:15 Pivot-minors and the Erdos-Hajnal conjecture [https://arxiv.org/abs/2305.09133]
+
+2:30 - 3:15 Bounded twin-width graphs are polynomially χ-bounded [https://arxiv.org/abs/2303.11231]
+
+3:30 - 4:15 Induced-Minor-Free Graphs: Separator Theorem, Subexponential Algorithms, and Improved Hardness of Recognition [https://arxiv.org/abs/2308.04795]
+
+
+[Seminar] Sebastian Wiederrecht (IBS Discrete Math Group)
+
+Title: Delineating half-integrality of the Erdős-Pósa property for minors
+Date: 3–4 PM on 2023/9/22 (Fri)
+Location: Not specified in the original announcement
+
+Abstract
+
+In 1986 Robertson and Seymour proved a generalization of the seminal result of Erd\H{o}s and P\'osa on the duality of packing and covering cycles:
+
+A graph has the Erd\H{o}s-P\'osa property for minors if and only if it is planar.
+
+In particular, for every non-planar graph $H$ they gave examples showing that the Erd\H{o}s-P\'osa property does not hold for $H$.
+
+Recently, Liu confirmed a conjecture of Thomas and showed that every graph has the half-integral Erd\H{o}s-P\'osa property for minors.
+
+In this paper we start the delineation of the half-integrality of the Erd\H{o}s-P\'osa property for minors.
+
+We conjecture that for every graph $H$ there exists a finite family $\mathfrak{F}_H$ of parametric graphs such that $H$ has the Erd\H{o}s-P\'osa property in a minor-closed graph class $\mathcal{G}$ if and only if $\mathcal{G}$ excludes a minor of each of the parametric graphs in $\mathfrak{F}_H$.
+
+We prove this conjecture for the class $\mathcal{H}$ of Kuratowski-connected shallow-vortex minors by showing that, for every non-planar $H\in\mathcal{H}$ the family $\mathfrak{F}_H$ can be chosen to be precisely the two families of Robertson-Seymour counterexamples to the Erd\H{o}s-P\'osa property of $H$.
+
+This is joint work with Christophe Paul, Evangelos Protopapas, and Dimitrios Thilikos.
+
+
+[Lecture] Pascal Gollin (Institute for Basic Science (IBS) Discrete Mathematics Group) (https://dimag.ibs.re.kr/home/gollin/)
+
+Title: Infinite graphs
+Date: 2023/8/1–2 (Tue–Wed)
+Location: College of Natural Sciences 701, Hanyang University (한양대학교 자연과학관 701호)
+
+Lecture Series on Combinatorics at Hanyang University
+
+Lecture series on Combinatorics at Hanyang University will take place from Aug 1 to Aug 2 at Hanyang University in Seoul, Korea.
+
+The aim of this lecture is to cover basic theory on infinite graphs.
+
+Registration : https://forms.gle/AHkUzUpZPJ2RmPpv6
+
+8.1.
+
+11:00am - 12:30am : Lecture 1. Infinite Graphs: Compactness, Transfinite Induction, and Other Basic Methods
+
+12:30am - 2:30pm : Lunch
+
+2:30pm - 4:00pm : Lecture 2. Paths, Trees, and Ends in Infinite Graphs
+
+8.2.
+
+11:00am - 12:30am : Lecture 3. Locally Finite Graphs with Ends: An Introduction to Topological Infinite Graph Theory
+
+12:30am - 2:30pm : Lunch
+
+2:30pm - 4:00pm : Discussions
+
+Supported by National Research Foundation of Korea
+
+
+[Colloquium] Suil O (오수일) (The State University of New York, Korea)
+
+Title: A gentle introduction to spectral graph theory
+Date: 4:30 PM on 2023/5/25 (Thu)
+Location: 한양대학교 자연과학관 123호 (Natural Science Building 123, Hanyang University)
+
+Colloquium in Hanyang University
+
+
+[Seminar] Combinatorial Algorithms Seminar
+
+Title: Seminar on Combinatorial Algorithms in Hanyang University
+Date: 2023/4/4–5 (Tue–Wed)
+Location: College of Natural Sciences 227 / 702 / 710, Hanyang University (한양대학교 자연과학관 227 / 702 / 710호)
+
+​https://sites.google.com/view/wca2023/home
+
+The seminar on combinatorial algorithms will take place from April 4 to April 5 at Hanyang University in Seoul, Korea.
+
+The seminar aims to introduce graph width parameters and basic graph classes, share open problems, and discuss them.
+
+Information
+
+Schedule
+
+Apr 4
+
+11:00 - 12:00 (227) : Introduction to graph width parameters (O-joung Kwon (http://ojkwon.com/))
+
+12:00 - 1:00 : Lunch
+
+1:00 - 5:00 (710) : Open problems and discussions
+
+Apr 5
+
+12:00 - 1:00 : Lunch
+
+1:00 - 2:00 (702) : Introduction to graph classes (Jungho Ahn (https://dimag.ibs.re.kr/home/jungho/))
+
+2:00 - 5:00 (710) : Open problems and discussions
+
+Organizers
+
+Jungho Ahn (https://dimag.ibs.re.kr/home/jungho/), KAIST & Institute for Basic Science (IBS)
+
+Eunjin Oh (https://sites.google.com/view/eunjinoh/), Pohang University of Science and Technology (POSTECH)
+
+O-joung Kwon (http://ojkwon.com/), Hanyang University & Institute for Basic Science (IBS)
+
+
+[Seminar] Minho Cho (IBS Ecopro group)
+
+Title: Strong ErdH{o}s-Hajnal property on chordal graphs and its variants
+Date: 2 PM on 2023/3/22 (Wed)
+Location: 한양대학교 자연과학관 702호 (Natural Science Building 702, Hanyang University)
+
+Abstract
+
+A graph class $mathcal{G}$ has the strong ErdH{o}s--Hajnal property (SEH-property) if there is a constant $c=c(mathcal{G}) > 0$ such that for every member $G$ of $mathcal{G}$, either $G$ or its complement has $K_{m, m}$ as a subgraph where $m geq leftlfloor c|V(G)|
+
+ight
+
+floor$. We prove that the class of chordal graphs satisfy SEH-property with constant $c = 2/9$.
+
+On the other hand, a strengthening of SEH-property which we call the colorful ErdH{o}s--Hajnal property was discussed in geometric settings by Alon et al.(2005) and by Fox et al.(2012). Inspired by their results, we show that for every pair $F_1, F_2$ of subtree families of the same size in a tree $T$ with $k$ leaves, there exists subfamilies $F'_1 subseteq F_1$ and $F'_2 subseteq F_2$ of size $ heta left( frac{ln k}{k} left| F_1
+
+ight|
+
+ight)$ such that either every pair of representatives from distinct subfamilies intersect or every such pair do not intersect. Our results are asymptotically optimal.
+
+Finally, we propose some questions on ErdH{o}s-Hajnal type properties of various graph classes. Joint work with Andreas Holmsen, Jinha Kim and Minki Kim.
+
+
+[Seminar] Sebastian Wiederrecht (IBS Discrete Mathematics Group)
+
+Title: Killing a vortex
+Date: 4:30–5:30 PM on 2022/11/7 (Mon)
+Location: Not specified in the original announcement
+
+Abstract
+
+The Structural Theorem of the Graph Minors series of Robertson and Seymour asserts that, for every t ∈ N, there exists some constant c_t such that every K_t-minor-free graph admits a tree decomposition whose torsos can be transformed, by the removal of at most ct vertices, to graphs that can be seen as the union of some graph that is embeddable to some surface of Euler genus at most ct and “at most c_t vortices of depth c_t”. Our main combinatorial result is a “vortex-free” refinement of the above structural theorem as follows:
+
+we identify a (parameterized) graph H_t, called shallow vortex grid, and we prove that if in the above structural theorem we replace K_t by H_t, then the resulting decomposition becomes “vortex-free”. Up to now, the most general classes of graphs admitting such a result were either bounded Euler genus graphs or the so called single-crossing minor-free graphs. Our result is tight in the sense that, whenever we minor-exclude a graph that is not a minor of some H_t, the appearance of vortices is unavoidable. Using the above decomposition theorem, we design an algorithm that, given an H_t-minor-free graph G, computes the generating function of all perfect matchings of G in polynomial time.
+
+This algorithm yields, on H_t-minor-free graphs, polynomial algorithms for computational problems such as the dimer problem, the exact matching problem, and the computation of the permanent. Our results, combined with known complexity results, imply a complete characterization of minor-closed graphs classes where the number of perfect matchings is polynomially computable: They are exactly those graph classes that do not contain every H_t as a minor. This provides a sharp complexity dichotomy for the problem of counting perfect matchings in minor-closed classes.
+
+This is joint work with Dimitrios Thilikos
