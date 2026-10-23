@@ -3,9 +3,8 @@ title: Introduction
 permalink: /
 ---
 
-I am a mathematician working in graph theory and combinatorics.
-
-I and Prof. Donggyu Kim are co-organizing the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
+I am a mathematician working in graph theory and combinatorics.  
+I and [Prof. Donggyu Kim](https://donggyu-math.github.io) are co-organizing the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
 
 ## Current Position and Address
 
