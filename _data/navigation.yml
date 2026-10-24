@@ -1,18 +1,14 @@
-# The sidebar is shared by every page. Links remains intentionally hidden.
-academic:
-  - title: "Academic homepage"
-    children:
-      - title: "Introduction"
-        url: /
-      - title: "Research team"
-        url: /research-team.html
-      - title: "Research topics"
-        url: /research.html
-      - title: "Papers"
-        url: /papers.html
-      - title: "Presentations"
-        url: /presentations.html
-      - title: "Teaching"
-        url: /teaching.html
-
-main: []
+# The top navigation is shared by every page.
+main:
+  - title: "Introduction"
+    url: /
+  - title: "Research team"
+    url: /research-team.html
+  - title: "Research topics"
+    url: /research.html
+  - title: "Papers"
+    url: /papers.html
+  - title: "Presentations"
+    url: /presentations.html
+  - title: "Teaching"
+    url: /teaching.html
