@@ -1,0 +1,25 @@
+{
+  "homepage_archive": "https://web.archive.org/web/20210127132115/http://ojkwon.com/",
+  "photos": [
+    {
+      "file": "portrait-2018.jpg",
+      "original_url": "http://ojkwon.com/wp-content/uploads/2018/02/Image-1-225x300.jpg",
+      "archive_url": "https://web.archive.org/web/20180825040129id_/http://ojkwon.com/wp-content/uploads/2018/02/Image-1-225x300.jpg"
+    },
+    {
+      "file": "photo-img-2758.jpg",
+      "original_url": "http://ojkwon.com/wp-content/uploads/2018/02/IMG_2758-300x225.jpg",
+      "archive_url": "https://web.archive.org/web/20180825033821id_/http://ojkwon.com/wp-content/uploads/2018/02/IMG_2758-300x225.jpg"
+    },
+    {
+      "file": "photo-image-8.jpg",
+      "original_url": "http://ojkwon.com/wp-content/uploads/2018/02/Image-8-225x300.jpg",
+      "archive_url": "https://web.archive.org/web/20180825043509id_/http://ojkwon.com/wp-content/uploads/2018/02/Image-8-225x300.jpg"
+    },
+    {
+      "file": "homepage-banner.jpg",
+      "original_url": "http://ojkwon.com/wp-content/uploads/2018/02/cropped-Image-2-6.jpg",
+      "archive_url": "https://web.archive.org/web/20180825035651id_/http://ojkwon.com/wp-content/uploads/2018/02/cropped-Image-2-6.jpg"
+    }
+  ]
+}

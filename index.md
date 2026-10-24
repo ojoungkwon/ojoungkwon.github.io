@@ -3,6 +3,9 @@ title: Introduction
 permalink: /
 ---
 
+<div class="intro-overview" markdown="1">
+<div class="intro-overview__text" markdown="1">
+
 I am a mathematician working in graph theory and combinatorics.  
 [Prof. Donggyu Kim](https://donggyu-math.github.io) and I co-organize the [Combinatorics Seminar at HY](https://sites.google.com/view/hy-combinatorics-seminar/home).
 
@@ -18,6 +21,10 @@ Visiting Research Fellow, [Discrete Mathematics Group, Institute for Basic Scien
 
 Email: ojoungkwon (at) hanyang.ac.kr · ojoungkwon (at) gmail.com  
 CV: [Download PDF](https://drive.google.com/file/d/1mi2zC6DHP780DkpUGoznn-NFYETX7hh9/view?usp=drive_link) (updated Oct. 2026)
+
+</div>
+<img class="intro-portrait" src="{{ '/assets/images/ojoungkwon-photo.jpg' | relative_url }}" alt="O-joung Kwon" width="900" height="1200">
+</div>
 
 ## Research Interests
 

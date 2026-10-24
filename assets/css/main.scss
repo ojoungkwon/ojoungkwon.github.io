@@ -15,6 +15,12 @@ $background-color: #f7f6f2;
 .page__content > h2 { margin-top: 2em; }
 .page__content li { margin-bottom: 0.6em; }
 .page__content img { max-width: 100%; height: auto; }
+.intro-overview { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 2rem; align-items: start; }
+.intro-portrait { display: block; width: 260px; border-radius: 4px; }
+@media (max-width: 700px) {
+  .intro-overview { grid-template-columns: minmax(0, 1fr); gap: 1em; }
+  .intro-portrait { width: 240px; margin: 0 auto 1em; }
+}
 .team-page .page__content img { width: 285px; display: block; margin: 1.5em auto 0; }
 .publication-page .page__content p { margin-bottom: 1.4em; }
 .academic-footer { margin-bottom: 0.75em; }
