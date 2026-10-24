@@ -3,6 +3,11 @@ title: Teaching
 permalink: /teaching.html
 ---
 
+## (Fall 2026)
+
+- Graduate advanced combinatorics
+- Abstract algebra II
+
 ## (Spring 2026)
 
  - Combinatorial mathematics
