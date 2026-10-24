@@ -11,10 +11,8 @@ I am a mathematician working in graph theory and combinatorics.
 
 ## Current Position and Address
 
-**Associate Professor**, [Department of Mathematics, Hanyang University](https://math.hanyang.ac.kr/) (한양대학교)
-
-Joint appointment with the Department of Computer Science.
-
+**Associate Professor**, [Department of Mathematics, Hanyang University](https://math.hanyang.ac.kr/) (한양대학교)  
+Joint appointment with the Department of Computer Science.  
 222, Wangsimni-ro, Seongdong-gu, Seoul 04763, Korea
 
 Visiting Research Fellow, [Discrete Mathematics Group, Institute for Basic Science](https://dimag.ibs.re.kr/).
