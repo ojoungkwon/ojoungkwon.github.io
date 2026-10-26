@@ -13,7 +13,8 @@ classes: publication-page
  [Journal of Combinatorial Theory Ser. B 158(1) (Jan, 2023) pp.93-116](https://doi.org/10.1016/j.jctb.2020.08.004), [arXiv:1909.08113](https://arxiv.org/abs/1909.08113)
 - Branch-depth: Generalizing tree-depth of graphs (with [Matt DeVos](http://www.sfu.ca/~mdevos/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/))  
  [European Journal of Combinatorics. 90 (Dec, 2020), 103186](https://doi.org/10.1016/j.ejc.2020.103186), [arXiv:1903.11988](https://arxiv.org/pdf/1903.11988)
-- Erdős-Pósa property of chordless cycles and its applications (with [Eun Jung Kim)](http://www.lamsade.dauphine.fr/~kim/) [Journal of Combinatorial Theory Ser. B. 145 (Nov, 2020), pp 65-112](https://doi.org/10.1016/j.jctb.2020.05.002), [arXiv:1711:00667](https://arxiv.org/abs/1711.00667)
+- Erdős-Pósa property of chordless cycles and its applications (with [Eun Jung Kim)](http://www.lamsade.dauphine.fr/~kim/)  
+ [Journal of Combinatorial Theory Ser. B. 145 (Nov, 2020), pp 65-112](https://doi.org/10.1016/j.jctb.2020.05.002), [arXiv:1711:00667](https://arxiv.org/abs/1711.00667)
 
 ## Journal papers
 
@@ -105,7 +106,8 @@ classes: publication-page
 25\. Branch-depth: Generalizing tree-depth of graphs (with [Matt DeVos](http://www.sfu.ca/~mdevos/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/))  
  [European Journal of Combinatorics. 90 (Dec, 2020), 103186](https://doi.org/10.1016/j.ejc.2020.103186), [arXiv:1903.11988](https://arxiv.org/pdf/1903.11988)
 
-24\. Erdős-Pósa property of chordless cycles and its applications (with [Eun Jung Kim)](http://www.lamsade.dauphine.fr/~kim/) [Journal of Combinatorial Theory Ser. B. 145 (Nov, 2020), pp 65-112](https://doi.org/10.1016/j.jctb.2020.05.002), ([SODA 2018](http://epubs.siam.org/doi/abs/10.1137/1.9781611975031.109), [arXiv:1711:00667,](https://arxiv.org/abs/1711.00667) [Movie from Discrete Seminar at KAIST](https://youtu.be/JWy1tHJeSWQ) )
+24\. Erdős-Pósa property of chordless cycles and its applications (with [Eun Jung Kim)](http://www.lamsade.dauphine.fr/~kim/)  
+ [Journal of Combinatorial Theory Ser. B. 145 (Nov, 2020), pp 65-112](https://doi.org/10.1016/j.jctb.2020.05.002), ([SODA 2018](http://epubs.siam.org/doi/abs/10.1137/1.9781611975031.109), [arXiv:1711:00667,](https://arxiv.org/abs/1711.00667) [Movie from Discrete Seminar at KAIST](https://youtu.be/JWy1tHJeSWQ) )
 
 23\. Graphs without two vertex-disjoint S-cycles (with Minjeong Kang and Myounghwan Lee)  
  [Discrete Mathematics. 343(10) (Oct 2020) 111997](https://doi.org/10.1016/j.disc.2020.111997). ([arXiv:1908.09065](http://arxiv.org/abs/1908.09065))

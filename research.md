@@ -55,4 +55,3 @@ I develop algorithms that exploit structural parameters to solve computationally
 - [A polynomial kernel for 3-leaf power deletion](https://arxiv.org/abs/1911.04249) — Algorithmica, 2023.
 - [A polynomial kernel for Distance-Hereditary Vertex Deletion](https://arxiv.org/abs/1610.07229) — Algorithmica, 2021.
 
-These topics are organized from the research interests listed on the [Introduction page](index.html).
