@@ -20,43 +20,43 @@ classes: team-page
  ([Jungho Ahn](https://www.junghoahn.com/), [Lars Jaffke](https://lars-jaffke.github.io/), **O-joung Kwon**, [Paloma T. de Lima](http://itu.dk/~palt/), and **Hyemi Park**)  
  [arXiv:2610.22967](https://arxiv.org/abs/2610.22967) submitted
 - QPTAS for Max Weight Independent Set in Graphs with Strongly Edge-Sublinear Separators  
- ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/) and [**Yeonsu Chang**](https://yeonsuchang.com))  
+ ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/) and **Yeonsu Chang**)  
  [arXiv:2610.16025](https://arxiv.org/abs/2610.16025) submitted
 - Max Independent Set Remains NP-hard when Excluding a Planar Induced Minor  
- ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/) and [**Yeonsu Chang**](https://yeonsuchang.com))  
+ ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/) and **Yeonsu Chang**)  
  [arXiv:2609.11285](https://arxiv.org/abs/2609.11285) submitted
 - An FPT algorithm for cycle rank on semi-complete digraphs  
- ([Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/), **O-joung Kwon**, and [**Myounghwan Lee**](https://myounghwanlee.super.site))  
+ ([Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/), **O-joung Kwon**, and **Myounghwan Lee**)  
  ISAAC 2026, [arXiv:2606.29336](https://arxiv.org/abs/2606.29336)
 - Moderately beyond clique-width: reduced component max-leaf and related parameter  
- ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/), **[Yeonsu Chang](https://yeonsuchang.com)**, [Julien Duron](https://www.mimuw.edu.pl/en/employees/482245/), [Colin Geniet](https://colingeniet.com/), **O-joung Kwon**)  
+ ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/), **Yeonsu Chang**, [Julien Duron](https://www.mimuw.edu.pl/en/employees/482245/), [Colin Geniet](https://colingeniet.com/), **O-joung Kwon**)  
  ESA 2026, [arXiv:2604.19138](https://arxiv.org/abs/2604.19138)
 - The optimal chromatic bound for even-hole-free graphs without induced seven-vertex paths  
- (Shenwei Huang, Yidong Zhou, [**Yeonsu Chang**](https://yeonsuchang.com))  
+ (Shenwei Huang, Yidong Zhou, **Yeonsu Chang**)  
  [arxiv:2602.04403](https://arxiv.org/abs/2602.04403) submitted
 - An eﬃcient algorithm for F-subgraph-free Edge Deletion on graphs having a product structure  
- (Shinwoo An, Seonghyuk Im, Seokbeom Kim, and [**Myounghwan Lee**](https://myounghwanlee.super.site))  
+ (Shinwoo An, Seonghyuk Im, Seokbeom Kim, and **Myounghwan Lee**)  
  [arXiv:2510.14674](https://arxiv.org/abs/2510.14674) submitted
 - Unavoidable butterfly minors in digraphs of large cycle rank  
- ([Meike Hatzel](https://meikehatzel.com), **O-joung Kwon**, [**Myounghwan Lee**](https://myounghwanlee.super.site), and [Sebastian Wiederrecht](https://www.wiederrecht.com))  
+ ([Meike Hatzel](https://meikehatzel.com), **O-joung Kwon**, **Myounghwan Lee**, and [Sebastian Wiederrecht](https://www.wiederrecht.com))  
  [arXiv:2507.11814](https://arxiv.org/abs/2507.11814) submitted
 - Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs  
- ([Shinwoo An](https://www.shinwooan.com), **[Yeonsu Chang](https://yeonsuchang.com)**, [Kyungjin Cho](https://jkj8944.github.io), **O-joung Kwon**, [**Myounghwan Lee**](https://myounghwanlee.super.site), [Eunjin Oh](https://sites.google.com/view/eunjinoh/), and Hyeonjun Shin)  
+ ([Shinwoo An](https://www.shinwooan.com), **Yeonsu Chang**, [Kyungjin Cho](https://jkj8944.github.io), **O-joung Kwon**, **Myounghwan Lee**, [Eunjin Oh](https://sites.google.com/view/eunjinoh/), and Hyeonjun Shin)  
  [Theoretical Computer Sciences 1084 (Sep 20, 2026), 116173](https://doi.org/10.1016/j.tcs.2026.116173), AAAI 2025, [arXiv:2408.09591](https://arxiv.org/abs/2408.09591)
 - A characterization of graphs of radius-r flip-width at most 2  
- (**[Yeonsu Chang](https://yeonsuchang.com)**, Sejin Ko, **O-joung Kwon**, and [**Myounghwan Lee**](https://myounghwanlee.super.site))  
+ (**Yeonsu Chang**, Sejin Ko, **O-joung Kwon**, and **Myounghwan Lee**)  
  [Discrete Mathematics 348(4) (Apr, 2025), 114366](https://doi.org/10.1016/j.disc.2024.114366) [arXiv:2306.15206](https://arxiv.org/abs/2306.15206)
 - A new width parameter of graphs based on edge cuts: \\alpha-edge-crossing width  
- (**[Yeonsu Chang](https://yeonsuchang.com)**, **O-joung Kwon**, [**Myounghwan Lee**](https://myounghwanlee.super.site))  
+ (**Yeonsu Chang**, **O-joung Kwon**, **Myounghwan Lee**)  
  [Discrete Applied Mathematics 380 (Feb 15, 2026) pp. 492-510](https://doi.org/10.1016/j.dam.2025.10.056), WG 2023 [arXiv:2302.04624](http://arxiv.org/abs/2302.04624)
 
 ![Yeonsu Chang presenting at KMS meeting 2025 in Seoul](assets/images/yeonsu.jpeg)
 
-(Yeonsu Chang’s presentation at KMS meeting 2025, Seoul)
+(**Yeonsu Chang**’s presentation at KMS meeting 2025, Seoul)
 
 ![Myounghwan Lee presenting at WG2023 in Fribourg, Switzerland](assets/images/leepresentationWG.jpeg)
 
-(Myounghwan Lee’s presentation at WG2023, Fribourg, Switzerland)
+(**Myounghwan Lee**’s presentation at WG2023, Fribourg, Switzerland)
 
 ## Postdoc position
 
