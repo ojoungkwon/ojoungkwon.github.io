@@ -17,8 +17,8 @@ classes: team-page
 (papers of students)
 
 - An Erdős-Pósa theorem for induced packings of even cycles  
- ([Jungho Ahn](https://www.junghoahn.com/), [Lars Jaffke](https://lars-jaffke.github.io/), O-joung Kwon, [Paloma T. de Lima](http://itu.dk/~palt/), and Hyemi Park)  
- [arXiv:2610.22967](https://arxiv.org/abs/2610.22967)
+ ([Jungho Ahn](https://www.junghoahn.com/), [Lars Jaffke](https://lars-jaffke.github.io/), **O-joung Kwon**, [Paloma T. de Lima](http://itu.dk/~palt/), and **Hyemi Park**)  
+ [arXiv:2610.22967](https://arxiv.org/abs/2610.22967) submitted
 - QPTAS for Max Weight Independent Set in Graphs with Strongly Edge-Sublinear Separators  
  ([Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/) and [**Yeonsu Chang**](https://yeonsuchang.com))  
  [arXiv:2610.16025](https://arxiv.org/abs/2610.16025) submitted
