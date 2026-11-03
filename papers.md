@@ -145,37 +145,37 @@ classes: publication-page
  [Journal of Computer and System Sciences. 97 (Nov. 2018), pp 121-146](https://doi.org/10.1016/j.jcss.2018.05.005), [arXiv:1604:06056](http://arxiv.org/abs/1604.06056)
 
 11\. A width parameter useful for chordal and co-comparability graphs (with Dong Yeup Kang, [Torstein Stromme](http://www.uib.no/personer/Torstein.Str%C3%B8mme), and [Jan Arne Telle](http://www.ii.uib.no/~telle/))  
- [Theoretical Computer Sci. 704 (15. Dec. 2017), pp 1-17](https://www.sciencedirect.com/science/article/pii/S0304397517306618) , [WALCOM 2017](https://link.springer.com/chapter/10.1007/978-3-319-53925-6_8)
+ [Theoretical Computer Sci. 704 (15. Dec. 2017), pp 1-17](https://www.sciencedirect.com/science/article/pii/S0304397517306618) , [WALCOM 2017](https://link.springer.com/chapter/10.1007/978-3-319-53925-6_8), [arXiv:1606.08087](https://arxiv.org/abs/1606.08087)
 
 10\. Packing and covering immersion models of planar subcubic graphs (with [Archontia Giannopoulou](http://users.uoa.gr/~arcgian/), [Jean-Florent Raymond](http://www.user.tu-berlin.de/jraymond/), and [Dimitrios M. Thilikos](http://www.thilikos.info/))  
- [European. J. Combin. 65 (Oct. 2017), pp 154-167](http://www.sciencedirect.com/science/article/pii/S0195669817300677) , [WG 2016](http://link.springer.com/chapter/10.1007/978-3-662-53536-3_7)
+ [European. J. Combin. 65 (Oct. 2017), pp 154-167](http://www.sciencedirect.com/science/article/pii/S0195669817300677) , [WG 2016](http://link.springer.com/chapter/10.1007/978-3-662-53536-3_7), [arXiv:1602.04042](https://arxiv.org/abs/1602.04042)
 
 9\. A polynomial kernel for Block Graph Deletion (with [Eun Jung Kim](http://www.lamsade.dauphine.fr/~kim/))  
- [Algorithmica. 79 (Sep, 2017), pp 251-270](http://link.springer.com/article/10.1007/s00453-017-0316-2) , [IPEC 2015](http://drops.dagstuhl.de/opus/volltexte/2015/5589/)
+ [Algorithmica. 79 (Sep, 2017), pp 251-270](http://link.springer.com/article/10.1007/s00453-017-0316-2) , [IPEC 2015](http://drops.dagstuhl.de/opus/volltexte/2015/5589/), [arXiv:1506.08477](https://arxiv.org/abs/1506.08477)
 
 8\. An FPT algorithm and a polynomial kernel for Linear Rankwidth-1 Vertex Deletion (with [Mamadou Kanté](https://perso.isima.fr/~makante/), [Eun Jung Kim](http://www.lamsade.dauphine.fr/~kim/), and [Christophe Paul](http://www.lirmm.fr/~paul/))  
- [Algorithmica. 79 (Sep, 2017), pp 66-95](http://link.springer.com/article/10.1007/s00453-016-0230-z) , [IPEC 2015](http://drops.dagstuhl.de/opus/volltexte/2015/5578/)
+ [Algorithmica. 79 (Sep, 2017), pp 66-95](http://link.springer.com/article/10.1007/s00453-016-0230-z) , [IPEC 2015](http://drops.dagstuhl.de/opus/volltexte/2015/5578/), [arXiv:1504.05905](https://arxiv.org/abs/1504.05905)
 
 7\. Linear rank-width of distance-hereditary graphs I. A polynomial time algorithm (with [Isolde Adler](http://www.tdi.informatik.uni-frankfurt.de/~adler/) and [Mamadou Kanté](https://perso.isima.fr/~makante/))  
- [Algorithmica. 78 (May, 2017), pp 342-377](http://link.springer.com/article/10.1007/s00453-016-0164-5) , [WG 2014](http://link.springer.com/chapter/10.1007%2F978-3-319-12340-0_4)
+ [Algorithmica. 78 (May, 2017), pp 342-377](http://link.springer.com/article/10.1007/s00453-016-0164-5) , [WG 2014](http://link.springer.com/chapter/10.1007%2F978-3-319-12340-0_4), [arXiv:1403.1081](https://arxiv.org/abs/1403.1081)
 
 6\. Coloring graphs without fan vertex-minors and graphs without cycle pivot-minors (with [Ilkyoo Choi](http://mathsci.kaist.ac.kr/~ilkyoo/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/))  
- [Journal of Combinatorial Theory Ser. B. 123 (March, 2017), pp. 126-147](http://www.sciencedirect.com/science/article/pii/S0095895616301071)
+ [Journal of Combinatorial Theory Ser. B. 123 (March, 2017), pp. 126-147](http://www.sciencedirect.com/science/article/pii/S0095895616301071), [arXiv:1512.03481](https://arxiv.org/abs/1512.03481)
 
 5\. Characterizing width two for variants of treewidth (with [Hans L. Bodlaender](http://www.staff.science.uu.nl/~bodla101/), [Stefan Kratsch](http://www.user.tu-berlin.de/stefan.kratsch/), Vincent Kreuzen, and Seongmin Ok)  
- [Discrete Applied Math. 216(Jan 10, 2017), pp. 29-46](http://dx.doi.org/10.1016/j.dam.2015.01.015)
+ [Discrete Applied Math. 216(Jan 10, 2017), pp. 29-46](http://dx.doi.org/10.1016/j.dam.2015.01.015), [arXiv:1404.3155](https://arxiv.org/abs/1404.3155)
 
 4\. Tree-depth and vertex-minors (with [Pétr Hlineny](http://www.fi.muni.cz/~hlineny/), [Jan Obdrzalek](http://www.fi.muni.cz/~xobdrzal/), and [Sebastian Ordyniak](https://eps.leeds.ac.uk/computing/staff/8786/dr-sebastian-ordyniak))  
- [European J. Combin. 56 (Augest, 2016), pp. 46-56](http://www.sciencedirect.com/science/article/pii/S0195669816000226)
+ [European J. Combin. 56 (Augest, 2016), pp. 46-56](http://www.sciencedirect.com/science/article/pii/S0195669816000226), [arXiv:1403.7024](https://arxiv.org/abs/1403.7024)
 
 3\. Excluded vertex-minors for graphs of linear rank-width at most k (with [Jisu Jeong](http://mathsci.kaist.ac.kr/~jisujeong/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/))  
- [European J. Combin. 41(October, 2014), pp. 242-257](http://dx.doi.org/10.1016/j.ejc.2014.04.010) , [STACS 2013](http://drops.dagstuhl.de/opus/volltexte/2013/3936/)
+ [European J. Combin. 41(October, 2014), pp. 242-257](http://dx.doi.org/10.1016/j.ejc.2014.04.010) , [STACS 2013](http://drops.dagstuhl.de/opus/volltexte/2013/3936/), [arXiv:1311.2618](https://arxiv.org/abs/1311.2618)
 
 2\. Unavoidable vertex-minors in large prime graphs (with [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/))  
- [European J. Combin. 41(October, 2014), pp. 100-127](http://dx.doi.org/10.1016/j.ejc.2014.03.013)
+ [European J. Combin. 41(October, 2014), pp. 100-127](http://dx.doi.org/10.1016/j.ejc.2014.03.013), [arXiv:1306.3066](https://arxiv.org/abs/1306.3066)
 
 1\. Graphs of small rank-width are pivot-minors of graphs of small tree-width (with [Sang-il Oum](http://mathsci.kaist.ac.kr/~sangil/))  
- [Discrete Applied Math. 168(May 11, 2014), pp. 108-118](http://dx.doi.org/10.1016/j.dam.2013.01.007)
+ [Discrete Applied Math. 168(May 11, 2014), pp. 108-118](http://dx.doi.org/10.1016/j.dam.2013.01.007), [arXiv:1203.3606](https://arxiv.org/abs/1203.3606)
 
 ## Refereed conference papers without journal version
 
