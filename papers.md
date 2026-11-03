@@ -177,6 +177,11 @@ classes: publication-page
 1\. Graphs of small rank-width are pivot-minors of graphs of small tree-width (with [Sang-il Oum](http://mathsci.kaist.ac.kr/~sangil/))  
  [Discrete Applied Math. 168(May 11, 2014), pp. 108-118](http://dx.doi.org/10.1016/j.dam.2013.01.007), [arXiv:1203.3606](https://arxiv.org/abs/1203.3606)
 
+<details class="paper-notes">
+  <summary>Notes</summary>
+  <p>In the statement of Theorem 4.6, “linear rank-width 1” should read “linear rank-width at most 1”.</p>
+</details>
+
 ## Refereed conference papers without journal version
 
 11\. An FPT algorithm for cycle rank on semi-complete digraphs (with [Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/) and [Myounghwan Lee](https://myounghwanlee.super.site/))  

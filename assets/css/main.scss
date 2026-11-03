@@ -28,4 +28,7 @@ $background-color: #f7f6f2;
 }
 .team-page .page__content img { width: 285px; display: block; margin: 1.5em auto 0; }
 .publication-page .page__content p { margin-bottom: 1.4em; }
+.paper-notes { margin: -0.5em 0 1.5em 1.25em; font-size: 0.85em; }
+.paper-notes summary { cursor: pointer; color: $link-color; }
+.publication-page .page__content .paper-notes p { margin: 0.6em 0 0 1em; }
 .academic-footer { margin-bottom: 0.75em; }
