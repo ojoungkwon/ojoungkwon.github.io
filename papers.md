@@ -25,7 +25,7 @@ classes: publication-page
  [Discrete Mathematics 349(12) (Dec 2026), 115344](http://doi.org/10.1016/j.disc.2026.115344), [arXiv:2305.01472](https://arxiv.org/abs/2305.01472)
 
 51\. Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs  
- (with [Shinwoo An](https://www.shinwooan.com), [Yeonsu Chang](https://yeonsuchang.com), [Kyungjin Cho](https://jkj8944.github.io), [Myounghwan Lee](https://myounghwanlee.super.site/), [Eunjin Oh](https://sites.google.com/view/eunjinoh/), and Hyeonjun Shin)  
+ (with [Shinwoo An](https://www.shinwooan.com), [Yeonsu Chang](https://yeonsuchang.com), [Kyungjin Cho](https://jkj8944.github.io), [Myounghwan Lee](https://myounghwanl.github.io/index.html), [Eunjin Oh](https://sites.google.com/view/eunjinoh/), and Hyeonjun Shin)  
  [Theoretical Computer Sciences 1084 (Sep 20, 2026), 116173](https://doi.org/10.1016/j.tcs.2026.116173), [AAAI 2025](https://doi.org/10.1609/aaai.v39i25.34893) [arXiv:2408.09591](https://arxiv.org/abs/2408.09591)
 
 50\. Computing pivot-minors (with [Konrad Dabrowski](http://community.dur.ac.uk/konrad.dabrowski/), [Francois Dross](http://www.lirmm.fr/~dross/), [Jisu Jeong](http://mathsci.kaist.ac.kr/~jisujeong/), [Mamadou Kanté](https://perso.isima.fr/~makante/), [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/), and [Daniel Paulusma](http://community.dur.ac.uk/daniel.paulusma/))  
@@ -43,7 +43,7 @@ classes: publication-page
 46\. Erdős-Pósa property of A-paths in unoriented group-labelled graphs (with [Youngho Yoo](https://sites.google.com/view/younghoyoo/))  
  [Combinatorica 46:9 (Mar 4, 2026)](https://doi.org/10.1007/s00493-026-00203-4), [arXiv:2411.05372](http://arxiv.org/abs/2411.05372)
 
-45\. A new width parameter of graphs based on edge cuts: \\alpha-edge-crossing width (with [Yeonsu Chang](https://yeonsuchang.com) and [Myounghwan Lee](https://myounghwanlee.super.site/))  
+45\. A new width parameter of graphs based on edge cuts: \\alpha-edge-crossing width (with [Yeonsu Chang](https://yeonsuchang.com) and [Myounghwan Lee](https://myounghwanl.github.io/index.html))  
  [Discrete Applied Mathematics 380 (Feb 15, 2026) pp. 492-510](https://doi.org/10.1016/j.dam.2025.10.056), WG 2023 [arXiv:2302.04624](http://arxiv.org/abs/2302.04624)
 
 44\. A unified Erdős-Pósa theorem for cycles in graphs labelled by multiple abelian groups (with [J. Pascal Gollin](https://dimag.ibs.re.kr/home/gollin/), [Kevin Hendrey](https://sites.google.com/view/kevinhendrey), [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/), and [Youngho Yoo](https://sites.google.com/view/younghoyoo/))  
@@ -52,7 +52,7 @@ classes: publication-page
 43\. A half-integral Erdős-Pósa theorem for directed odd cycles (with [Ken-ichi Kawarabayashi](http://research.nii.ac.jp/~k_keniti/), [Stephan Kreutzer](http://logic.las.tu-berlin.de/Members/Kreutzer/), and [Qiqin Xie](http://www.scms.fudan.edu.cn/Data/View/1319.html))  
  [Journal of Combinatorial Theory Ser. B 172 (May, 2025) pp.115-145](https://doi.org/10.1016/j.jctb.2024.12.008), SODA 2023, [arXiv:2007.12257](https://arxiv.org/abs/2007.12257)
 
-42\. A characterization of graphs of radius-r flip-width at most 2 (with [Yeonsu Chang](https://yeonsuchang.com), Sejin Ko, and [Myounghwan Lee](https://myounghwanlee.super.site/))  
+42\. A characterization of graphs of radius-r flip-width at most 2 (with [Yeonsu Chang](https://yeonsuchang.com), Sejin Ko, and [Myounghwan Lee](https://myounghwanl.github.io/index.html))  
  [Discrete Mathematics 348(4) (Apr, 2025), 114366](https://doi.org/10.1016/j.disc.2024.114366) [arXiv:2306.15206](https://arxiv.org/abs/2306.15206)
 
 41\. Classes of intersection digraphs with good algorithmic properties (with [Lars Jaffke](https://lars-jaffke.github.io) and [Jan Arne Telle](http://www.ii.uib.no/~telle/))  
@@ -184,7 +184,7 @@ classes: publication-page
 
 ## Refereed conference papers without journal version
 
-11\. An FPT algorithm for cycle rank on semi-complete digraphs (with [Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/) and [Myounghwan Lee](https://myounghwanlee.super.site/))  
+11\. An FPT algorithm for cycle rank on semi-complete digraphs (with [Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/) and [Myounghwan Lee](https://myounghwanl.github.io/index.html))  
  ISAAC 2026 [arXiv:2606.29336](https://arxiv.org/abs/2606.29336)
 
 10\. Moderately beyond clique-width: reduced component max-leaf and related parameter  
@@ -227,7 +227,7 @@ classes: publication-page
 3\. Erdős-Pósa property for induced packings of long S-cycles (with [Jungho Ahn](https://www.junghoahn.com))  
  [arXiv:2608.22349](http://arxiv.org/abs/2608.22349) submitted
 
-2\. Unavoidable butterfly minors in digraphs of large cycle rank (with [Meike Hatzel](https://meikehatzel.com), [Myounghwan Lee](https://myounghwanlee.super.site/), and [Sebastian Wiederrecht](https://www.wiederrecht.com))  
+2\. Unavoidable butterfly minors in digraphs of large cycle rank (with [Meike Hatzel](https://meikehatzel.com), [Myounghwan Lee](https://myounghwanl.github.io/index.html), and [Sebastian Wiederrecht](https://www.wiederrecht.com))  
  [arXiv:2507.11814](https://arxiv.org/abs/2507.11814) submitted
 
 1\. Treewidth versus clique number. IV. Tree-independence number of graphs excluding an induced star  

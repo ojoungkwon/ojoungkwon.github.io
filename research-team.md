@@ -6,7 +6,7 @@ classes: team-page
 
 ## Ph.D students
 
-[이명환 (Lee, Myounghwan)](https://myounghwanlee.super.site) (Master) 2022.3-2023.8, (Ph.D) 2023.9-
+[이명환 (Lee, Myounghwan)](https://myounghwanl.github.io/index.html) (Master) 2022.3-2023.8, (Ph.D) 2023.9-
 
 [장연수 (Chang, Yeonsu)](https://yeonsuchang.com) (Integrated Ph.D) 2022.3-
 
