@@ -220,6 +220,10 @@ classes: publication-page
 
 ## Submitted
 
+5\. Combinatorial optimization with bounded subdeterminants  
+ (with [Samuel Fiorini](https://samuel.fiorini.web.ulb.be/), [J. Pascal Gollin](https://pascal-gollin.github.io/), [Tony Huynh](https://sites.google.com/site/matroidintersection/home), [Simon Keil](https://simon-keil.de/), [Sang-il Oum](https://sangil.dimag.kr/), [Roohani Sharma](https://sites.google.com/view/roohanisharma/home), and [Stefan Weltge](https://weltge.de/))  
+ [arXiv:2611.13065](https://arxiv.org/abs/2611.13065) submitted
+
 4\. An Erdős-Pósa theorem for induced packings of even cycles  
  (with [Jungho Ahn](https://www.junghoahn.com), [Lars Jaffke](https://lars-jaffke.github.io), [Paloma T. de Lima](http://itu.dk/~palt/), and Hyemi Park)  
  [arXiv:2610.22967](https://arxiv.org/abs/2610.22967)
