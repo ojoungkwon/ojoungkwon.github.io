@@ -240,7 +240,8 @@ classes: publication-page
 
 ## Thesis
 
-Ph.D. Thesis On the structural and algorithmic properties of linear rank-width [[File]](http://mathsci.kaist.ac.kr/~ojkwon/ojoungthesis.pdf) Master Thesis Connecting rank-width and tree-width via pivot-minors [[File]](http://mathsci.kaist.ac.kr/~ojkwon/thesisojkwon2012.pdf)
+Ph.D. Thesis On the structural and algorithmic properties of linear rank-width [[File]](http://mathsci.kaist.ac.kr/~ojkwon/ojoungthesis.pdf)  
+Master Thesis Connecting rank-width and tree-width via pivot-minors [[File]](http://mathsci.kaist.ac.kr/~ojkwon/thesisojkwon2012.pdf)
 
 ## Manuscript
 
